@@ -1,0 +1,2743 @@
+	[
+	{
+		"title": "500friends_E",
+		"page_uri": "/link-marketplace/500friends",
+		"desc": "500friends helps leading retail brands maximize the profitability of their customer relationships through their comprehensive suite of loyalty solutions and services.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_500friends_web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,229,99,31,284],
+		"category_names" : ["Technology","Customer Relationship Management","Loyalty","North America","LINK Joint Customer"]
+	},{
+		"title": "Accenture",
+		"page_uri": "/link-marketplace/accenture",
+		"desc": "Accenture helps organizations assess how to maximize their performance and works with them to achieve their vision.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Accenture_webv2.png",
+		"level" : "global",
+		"service_type" : ["services","solution","end-to-end"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,8,210,31,32,33,34,147,148,149,150,152,156,157,158],
+		"category_names" : ["Services","Solution","End to End","Global Innovation Partner","North America","Europe","Asia Pacific","Global","24x7 Solution Support","Brand Development/Creative","Commerce Strategy","Digital Marketing Strategy","Implementation/Integration/Delivery","Optimization","Retail Transformation","Shop Management/Merchandizing"]
+	},{
+		"title": "Acquity Group, Part of Accenture Interactive",
+		"page_uri": "/link-marketplace/acquity-group-part-of-accenture-interactive",
+		"desc": "Acquity Group is a leading Brand eCommerce & digital marketing company that creates award-winning experiences for global brands.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Acquity_webv2.png",
+		"level" : "",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,31,32,33,34,147,148,149,150,152,156],
+		"category_names" : ["Services","Solution","North America","Europe","Asia Pacific","Global","24x7 Solution Support","Brand Development/Creative","Commerce Strategy","Digital Marketing Strategy","Implementation/Integration/Delivery","Optimization"]
+	},{
+		"title": "Addressy",
+		"page_uri": "/link-marketplace/addressy",
+		"desc": "Addressy provides type-ahead address verification software - reducing cart abandonment &  increasing conversions.",
+		"logo": "//www.demandware.com/uploads/partners/Logo_Addressy_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,16,108,31,32,33,34,284],
+		"category_names" : ["Technology","Address Verification","Shopping Cart Abandonment","North America","Europe","Asia Pacific","Global","LINK Joint Customer"]
+	},{
+		"title": "Adyen_E",
+		"page_uri": "/link-marketplace/adyen",
+		"desc": "Adyen is a global payments technology company that provides a unified platform for omnichannel commerce.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Adyen_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,17,101,31,32,33,34,240,284],
+		"category_names" : ["Technology","Analytics","Payment","North America","Europe","Asia Pacific","Global","Apple Pay for the Web Certified","LINK Joint Customer"]
+	},{
+		"title": "Affirm_E",
+		"page_uri": "/link-marketplace/affirm",
+		"desc": "Affirm enables customers to buy what they want today and pay over time\u2014boosting conversion, AOV, and LTV.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Affirm_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,35,101,31,284],
+		"category_names" : ["Technology","Marketing","Payment","North America","LINK Joint Customer"]
+	},{
+		"title": "Agility Multichannel_E",
+		"page_uri": "/link-marketplace/agility-multichannel",
+		"desc": "Agility Multichannel supports Agility, a product information management system created to drive multichannel commerce.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Agility_web5.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,103,31,32,33,34,284],
+		"category_names" : ["Technology","Product Information Management","North America","Europe","Asia Pacific","Global","LINK Joint Customer"]
+	},{
+		"title": "Allacode",
+		"page_uri": "/link-marketplace/allacode",
+		"desc": "Boutique web development agency specializing in creating, customizing and launching end to end E-commerce solutions.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Allacode3_Web.png",
+		"level" : "",
+		"service_type" : ["services","affiliate"],
+		"partner_type" : ["service"],
+		"categories" :  [72,9,31,32,33,34,148,149,150,154,156],
+		"category_names" : ["Services","Affiliate","North America","Europe","Asia Pacific","Global","Brand Development/Creative","Commerce Strategy","Digital Marketing Strategy","In-Store/POS Integration","Optimization"]
+	},{
+		"title": "Almighty",
+		"page_uri": "/link-marketplace/almighty",
+		"desc": "Strategic Agency built to drive business value by creating customer value. Deliberately independent since 2004.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Almighty_webv2.png",
+		"level" : "",
+		"service_type" : ["services","affiliate"],
+		"partner_type" : ["service"],
+		"categories" :  [72,9,31,148,149,150,154,156,157],
+		"category_names" : ["Services","Affiliate","North America","Brand Development/Creative","Commerce Strategy","Digital Marketing Strategy","In-Store/POS Integration","Optimization","Retail Transformation"]
+	},{
+		"title": "Alpenite",
+		"page_uri": "/link-marketplace/alpenite",
+		"desc": "Alpenite offers information technology consulting services to better reach your customers. ",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Alpenite_Web.png",
+		"level" : "business",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,12,32,147,149,152,154,155,156,283],
+		"category_names" : ["Services","Solution","Business","Europe","24x7 Solution Support","Commerce Strategy","Implementation/Integration/Delivery","In-Store/POS Integration","LINK Cartridge Development","Optimization","LINK Joint Customer"]
+	},{
+		"title": "Alpha Solutions",
+		"page_uri": "/link-marketplace/alpha-solutions",
+		"desc": "Experts in ecommerce and IT consultancy, focusing on implementing best of breed ecommerce solutions worldwide.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_alpha_webv2.png",
+		"level" : "business",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,12,32,148,149,152,156,283],
+		"category_names" : ["Services","Solution","Business","Europe","Brand Development/Creative","Commerce Strategy","Implementation/Integration/Delivery","Optimization","LINK Joint Customer"]
+	},{
+		"title": "AltaPay",
+		"page_uri": "/link-marketplace/altapay",
+		"desc": "AltaPay is a leading payment management company founded in December, 2008 in Copenhagen with the purpose of delivering the best secure global payment solutions to international omni-channel merchants.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_AltaPay_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,101,31,32,33,34,284],
+		"category_names" : ["Technology","Payment","North America","Europe","Asia Pacific","Global","LINK Joint Customer"]
+	},{
+		"title": "altima",
+		"page_uri": "/link-marketplace/altima",
+		"desc": "We are an independent digital agency specializing in ecommerce. As pioneers of the e-commerce world, every day, we put our imagination to work creating digital commerce solutions for tomorrow\u2019s world.",
+		"logo": "//www.demandware.com/uploads/partners/logo_altima_web.png",
+		"level" : "business",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,12,31,32,33,34,148,149,150,152,156,157,158],
+		"category_names" : ["Services","Solution","Business","North America","Europe","Asia Pacific","Global","Brand Development/Creative","Commerce Strategy","Digital Marketing Strategy","Implementation/Integration/Delivery","Optimization","Retail Transformation","Shop Management/Merchandizing"]
+	},{
+		"title": "Amazon Pay",
+		"page_uri": "/link-marketplace/amazon-pay",
+		"desc": "Enable millions of Amazon customers to easily pay on your site with information already stored in their Amazon account.",
+		"logo": "//www.demandware.com/uploads/partners/Logo_AmazonPay_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,101,31,32,33,34],
+		"category_names" : ["Technology","Payment","North America","Europe","Asia Pacific","Global"]
+	},{
+		"title": "Amblique",
+		"page_uri": "/link-marketplace/amblique",
+		"desc": "Amblique is a digital commerce consultancy providing retail strategy, ecommerce platform implementation and optimisation services.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_amblique_webv2.png",
+		"level" : "strategic",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,10,33,147,148,149,150,152,155,156,158,237,283],
+		"category_names" : ["Services","Solution","Strategic","Asia Pacific","24x7 Solution Support","Brand Development/Creative","Commerce Strategy","Digital Marketing Strategy","Implementation/Integration/Delivery","LINK Cartridge Development","Optimization","Shop Management/Merchandizing","Support Certified","LINK Joint Customer"]
+	},{
+		"title": "AmEx Express Checkout",
+		"page_uri": "/link-marketplace/amex-express-checkout",
+		"desc": "American Express is a global services company, providing customers with access to products that build business success.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Web_AmEx.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,25,101,31,32,33,34,284],
+		"category_names" : ["Technology","Fraud","Payment","North America","Europe","Asia Pacific","Global","LINK Joint Customer"]
+	},{
+		"title": "Amplience_E",
+		"page_uri": "/link-marketplace/amplience",
+		"desc": "The Amplience Big Content Cloud delivers rich content production, analytics and publishing, which enable more than 200 leading brands to realise measurable content performance improvement.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Amplience_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,21,105,31,32,284],
+		"category_names" : ["Technology","Content Management Systems","Rich Media","North America","Europe","LINK Joint Customer"]
+	},{
+		"title": "Annex Cloud",
+		"page_uri": "/link-marketplace/annex-cloud",
+		"desc": "Annex Cloud delivers fully integrated Customer Loyalty, Referral Marketing, and User Generated Content solutions.   ",
+		"logo": "//www.demandware.com/uploads/partners/Logo_AnnexCloud_Web.jpg",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,99,35,31,32,284],
+		"category_names" : ["Technology","Loyalty","Marketing","North America","Europe","LINK Joint Customer"]
+	},{
+		"title": "Appirio, A Wipro Company",
+		"page_uri": "/link-marketplace/appirio-a-wipro-company",
+		"desc": "Appirio, a Wipro Company helps customers improve Worker & Customer experiences with outcome-oriented consultants who bring the latest digital thinking and unmatched cloud experience. ",
+		"logo": "//www.demandware.com/uploads/partners/Logo_Appirio_Web.png",
+		"level" : "global",
+		"service_type" : ["services"],
+		"partner_type" : ["service"],
+		"categories" :  [72,210,31,32,33,34,147,148,149,150,152,154,156],
+		"category_names" : ["Services","Global Innovation Partner","North America","Europe","Asia Pacific","Global","24x7 Solution Support","Brand Development/Creative","Commerce Strategy","Digital Marketing Strategy","Implementation/Integration/Delivery","In-Store/POS Integration","Optimization"]
+	},{
+		"title": "Apptus Technologies",
+		"page_uri": "/link-marketplace/apptus-technologies",
+		"desc": "Apptus eSales delivers AI-Powered Optimization for retailers embracing data driven decisions & sales performance.",
+		"logo": "//www.demandware.com/uploads/partners/Logo_Apptus_web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,102,106,32],
+		"category_names" : ["Technology","Personalization","Search","Europe"]
+	},{
+		"title": "armstrong",
+		"page_uri": "/link-marketplace/armstrong",
+		"desc": "armstrong helps brands to design and deliver their content to the right audience at the right time in the right place.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Armstrong_web.png",
+		"level" : "",
+		"service_type" : ["services","affiliate"],
+		"partner_type" : ["service"],
+		"categories" :  [72,9,148,149,150,156,158],
+		"category_names" : ["Services","Affiliate","Brand Development/Creative","Commerce Strategy","Digital Marketing Strategy","Optimization","Shop Management/Merchandizing"]
+	},{
+		"title": "arvato Bertelsmann",
+		"page_uri": "/link-marketplace/arvato-bertelsmann",
+		"desc": "arvato is one of the leading ecommerce service providers for: implementation and operation of online-shops, warehousing and transportation, financial services, customer service and digital marketing.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_arvato_webv2.png",
+		"level" : "premier",
+		"service_type" : ["services","solution","end-to-end"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,8,11,31,32,33,34,147,148,149,151,152,154,156,158,283],
+		"category_names" : ["Services","Solution","End to End","Premier","North America","Europe","Asia Pacific","Global","24x7 Solution Support","Brand Development/Creative","Commerce Strategy","Fulfillment/Logistics/Warehousing","Implementation/Integration/Delivery","In-Store/POS Integration","Optimization","Shop Management/Merchandizing","LINK Joint Customer"]
+	},{
+		"title": "Arvato Mobile Solutions",
+		"page_uri": "/link-marketplace/arvato-mobile-solutions",
+		"desc": "Arvato Mobile Solutions is part of Arvato SCM Solutions offering a completely customizable & ready-to-go whitelable app.",
+		"logo": "//www.demandware.com/uploads/partners/fullsizeoutput_26.jpeg",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,35,36,31,32,33,34],
+		"category_names" : ["Technology","Marketing","Mobile","North America","Europe","Asia Pacific","Global"]
+	},{
+		"title": "Astound Commerce",
+		"page_uri": "/link-marketplace/astound-commerce",
+		"desc": "Astound Commerce, a Salesforce Commerce Cloud Implementation Certified partner, optimizes ecommerce solutions for global brands.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Astound_Web.png",
+		"level" : "premier",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,11,31,32,147,152,155,156,236,237,283],
+		"category_names" : ["Services","Solution","Premier","North America","Europe","24x7 Solution Support","Implementation/Integration/Delivery","LINK Cartridge Development","Optimization","Delivery Certified","Support Certified","LINK Joint Customer"]
+	},{
+		"title": "atsistemas",
+		"page_uri": "/link-marketplace/atsistemas",
+		"desc": "AtSistemas is a company of nearly 800 IT professionals dedicated, since 1994, to provide consulting services and software development services to major organizations, in different sectors.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_AtSistemas_Web.png",
+		"level" : "business",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,12,32,147,149,152,156,283],
+		"category_names" : ["Services","Solution","Business","Europe","24x7 Solution Support","Commerce Strategy","Implementation/Integration/Delivery","Optimization","LINK Joint Customer"]
+	},{
+		"title": "Avalara",
+		"page_uri": "/link-marketplace/avalara",
+		"desc": "Avalara provides the fastest, easiest, most accurate and affordable way to manage sales and use tax.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Avalara_webv4.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,112,31,32,33,34,284],
+		"category_names" : ["Technology","Tax","North America","Europe","Asia Pacific","Global","LINK Joint Customer"]
+	},{
+		"title": "Bazaarvoice",
+		"page_uri": "/link-marketplace/bazaarvoice",
+		"desc": "Bazaarvoice helps all types of businesses capture, display, share, and analyze customer conversations online.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_bazaarvoice_webv3.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,104,109,31,32,33,34,284],
+		"category_names" : ["Technology","Ratings and Reviews","Social","North America","Europe","Asia Pacific","Global","LINK Joint Customer"]
+	},{
+		"title": "BE Excellent GmbH",
+		"page_uri": "/link-marketplace/be-excellent-gmbh",
+		"desc": "BE EXCELLENT is a laser focused Demandware partner with rock solid expertise in fashion, retail and luxury industries.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_BEE_webv2.png",
+		"level" : "premier",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,11,32,147,152,155,156,283],
+		"category_names" : ["Services","Solution","Premier","Europe","24x7 Solution Support","Implementation/Integration/Delivery","LINK Cartridge Development","Optimization","LINK Joint Customer"]
+	},{
+		"title": "Biglight",
+		"page_uri": "/link-marketplace/biglight",
+		"desc": "Experience By Design",
+		"logo": "//www.demandware.com/uploads/partners/fullsizeoutput_6.jpeg",
+		"level" : "",
+		"service_type" : ["services","affiliate"],
+		"partner_type" : ["service"],
+		"categories" :  [72,9,32,149,156],
+		"category_names" : ["Services","Affiliate","Europe","Commerce Strategy","Optimization"]
+	},{
+		"title": "BillPay GmbH",
+		"page_uri": "/link-marketplace/billpay-gmbh",
+		"desc": "BillPay offers Invoice, Direct Debit and Instalment solutions in Germany, Austria, Switzerland and the Netherlands.",
+		"logo": "//www.demandware.com/uploads/partners/Logo_Billpay_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,101,32,284],
+		"category_names" : ["Technology","Payment","Europe","LINK Joint Customer"]
+	},{
+		"title": "BlogLINK",
+		"page_uri": "/link-marketplace/bloglink",
+		"desc": "OSF's BlogLINK converts WordPress articles to Content Assets. Bring Blog and Ecommerce traffic for increased conversions",
+		"logo": "//www.demandware.com/uploads/partners/BlogLINK_Logo_LINK.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,21,35,31,32,33,34,284],
+		"category_names" : ["Technology","Content Management Systems","Marketing","North America","Europe","Asia Pacific","Global","LINK Joint Customer"]
+	},{
+		"title": "Blue Acorn",
+		"page_uri": "/link-marketplace/blue-acorn",
+		"desc": "Blue Acorn is a digital commerce agency and systems integrator dedicated to maximizing client satisfaction and online revenue for leading B2C and B2B brands. ",
+		"logo": "//www.demandware.com/uploads/partners/Logo_Blue-Acorn_Web.jpg",
+		"level" : "business",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,12,31,149,150,152,156,283],
+		"category_names" : ["Services","Solution","Business","North America","Commerce Strategy","Digital Marketing Strategy","Implementation/Integration/Delivery","Optimization","LINK Joint Customer"]
+	},{
+		"title": "Bluebell",
+		"page_uri": "/link-marketplace/bluebell",
+		"desc": "Bluebell is an omni-channel partner operating in Asia that provides consulting services to brands in APAC.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Bluebell_webv2.png",
+		"level" : "business",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,12,33,147,149,150,151,154,156,157,158],
+		"category_names" : ["Services","Solution","Business","Asia Pacific","24x7 Solution Support","Commerce Strategy","Digital Marketing Strategy","Fulfillment/Logistics/Warehousing","In-Store/POS Integration","Optimization","Retail Transformation","Shop Management/Merchandizing"]
+	},{
+		"title": "Bluecom",
+		"page_uri": "/link-marketplace/bluecom",
+		"desc": "Bluecom works with leading international retailers and brands on ecommerce development and localization in China and APAC.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Bluecom_webv2.png",
+		"level" : "premier",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,11,33,147,149,152,155,156,284],
+		"category_names" : ["Services","Solution","Premier","Asia Pacific","24x7 Solution Support","Commerce Strategy","Implementation/Integration/Delivery","LINK Cartridge Development","Optimization","LINK Joint Customer"]
+	},{
+		"title": "Bluecom Integrator for Demandware and 99Bill (China) Payment Method",
+		"page_uri": "/link-marketplace/bluecom-integrator-for-demandware-and-99bill-china-payment-method",
+		"desc": "Bluecom works with leading international retailers and brands on ecommerce development and localization in China and APAC.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_99Bill_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,101,33],
+		"category_names" : ["Technology","Payment","Asia Pacific"]
+	},{
+		"title": "Bluecom Integrator for Demandware and Alipay (China)",
+		"page_uri": "/link-marketplace/bluecom-integrator-for-demandware-and-alipay-china",
+		"desc": "Bluecom works with leading international retailers and brands on ecommerce development and localization in China and APAC.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Alipay_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,101,33,284],
+		"category_names" : ["Technology","Payment","Asia Pacific","LINK Joint Customer"]
+	},{
+		"title": "Bluecom Integrator for Demandware and Asiapay (China) Payment Method",
+		"page_uri": "/link-marketplace/bluecom-integrator-for-demandware-and-asiapay-china-payment-method",
+		"desc": "Bluecom works with leading international retailers and brands on ecommerce development and localization in China and APAC.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Asiapay_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,101,33],
+		"category_names" : ["Technology","Payment","Asia Pacific"]
+	},{
+		"title": "Bluecom Integrator for Demandware and Kuaidi (China) Shipment Tracking",
+		"page_uri": "/link-marketplace/bluecom-integrator-for-demandware-and-kuaidi-china-shipment-tracking",
+		"desc": "Bluecom works with leading international retailers and brands on ecommerce development and localization in China and APAC.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Kuaidi_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,100,33],
+		"category_names" : ["Technology","Order Management","Asia Pacific"]
+	},{
+		"title": "Bluecom Integrator for Demandware and Tenpay (China) Payment Method",
+		"page_uri": "/link-marketplace/bluecom-integrator-for-demandware-and-tenpay-china-payment-method",
+		"desc": "Bluecom works with leading international retailers and brands on ecommerce development and localization in China and APAC.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Tenpay_Web.png",
+		"level" : "",
+		"service_type" : [],
+		"partner_type" : ["service", "technology"],
+		"categories" :  [101,33],
+		"category_names" : ["Payment","Asia Pacific"]
+	},{
+		"title": "Bluecore, Inc",
+		"page_uri": "/link-marketplace/bluecore-inc",
+		"desc": "Bluecore unifies customer and catalog data to deliver real-time triggers, personalized batch sends and audience syncing",
+		"logo": "//www.demandware.com/uploads/partners/logo_bluecore_web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,24,35,31,32,284],
+		"category_names" : ["Technology","Email Marketing","Marketing","North America","Europe","LINK Joint Customer"]
+	},{
+		"title": "Blueleaf",
+		"page_uri": "/link-marketplace/blueleaf",
+		"desc": "Blueleaf is an award-winning digital commerce agency. Our purpose is to inspire great retail. ",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Blueleaf_Web.png",
+		"level" : "business",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,12,32,147,148,149,152,154,156,158,283],
+		"category_names" : ["Services","Solution","Business","Europe","24x7 Solution Support","Brand Development/Creative","Commerce Strategy","Implementation/Integration/Delivery","In-Store/POS Integration","Optimization","Shop Management/Merchandizing","LINK Joint Customer"]
+	},{
+		"title": "Blueshift",
+		"page_uri": "/link-marketplace/blueshift",
+		"desc": "Automate hyper-personalized email & mobile marketing with real-time & predictive segmentation & targeted merchandising. ",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_blueshift_web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,24,102,31,32,33,34],
+		"category_names" : ["Technology","Email Marketing","Personalization","North America","Europe","Asia Pacific","Global"]
+	},{
+		"title": "Blueshift",
+		"page_uri": "/link-marketplace/blueshift",
+		"desc": "Automate hyper-personalized email & mobile marketing with real-time & predictive segmentation & targeted merchandising. ",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_blueshift_web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,24,102,31,32,33,34],
+		"category_names" : ["Technology","Email Marketing","Personalization","North America","Europe","Asia Pacific","Global"]
+	},{
+		"title": "Borderlinx",
+		"page_uri": "/link-marketplace/borderlinx",
+		"desc": "Go.borderlinx is a cross-border eCommerce shipping solution for online retailers, designed to manage the complexities of dealing with tax, duty and customs regulations, logistics and IT setup.  ",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Borderlinx_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,97,112,31,32,33,34,284],
+		"category_names" : ["Technology","Cross-Border Fulfillment","Tax","North America","Europe","Asia Pacific","Global","LINK Joint Customer"]
+	},{
+		"title": "BORN",
+		"page_uri": "/link-marketplace/born",
+		"desc": "BORN (formerly Pod1) is an award winning full-service ecommerce design and development agency with offices in NYC and London.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_BORN_webv2.png",
+		"level" : "premier",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,11,31,32,33,34,148,152,236,283],
+		"category_names" : ["Services","Solution","Premier","North America","Europe","Asia Pacific","Global","Brand Development/Creative","Implementation/Integration/Delivery","Delivery Certified","LINK Joint Customer"]
+	},{
+		"title": "Braintree",
+		"page_uri": "/link-marketplace/braintree",
+		"desc": "The Braintree full stack solution combines a gateway and payment processing into one seamless global payments platform. ",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Braintree_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,25,101,31,32,33,34],
+		"category_names" : ["Technology","Fraud","Payment","North America","Europe","Asia Pacific","Global"]
+	},{
+		"title": "Branding Brand",
+		"page_uri": "/link-marketplace/branding-brand",
+		"desc": "Branding Brand powers mobile commerce sites & apps for enterprise retailers like Cole Haan, Ralph Lauren, & Sephora.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Branding_Brand_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,21,36,31,284],
+		"category_names" : ["Technology","Content Management Systems","Mobile","North America","LINK Joint Customer"]
+	},{
+		"title": "Brickwork",
+		"page_uri": "/link-marketplace/brickwork",
+		"desc": "",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Brickwork_Web.jpg",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,35,238],
+		"category_names" : ["Technology","Marketing","Store Locator"]
+	},{
+		"title": "Bronto Software",
+		"page_uri": "/link-marketplace/bronto",
+		"desc": "Bronto provides a cloud-based commerce marketing automation platform to mid-market and enterprise organizations.",
+		"logo": "//www.demandware.com/uploads/partners/Logo_Bronto_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,24,35,31,32,33,34],
+		"category_names" : ["Technology","Email Marketing","Marketing","North America","Europe","Asia Pacific","Global"]
+	},{
+		"title": "Bynder",
+		"page_uri": "/link-marketplace/bynder",
+		"desc": "Bynder allows brands to easily create, find and use content to achieve end-to-end brand consistency across all channels.",
+		"logo": "//www.demandware.com/uploads/partners/logo_bynder_web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,21,105,31,32,284],
+		"category_names" : ["Technology","Content Management Systems","Rich Media","North America","Europe","LINK Joint Customer"]
+	},{
+		"title": "Cayan",
+		"page_uri": "/link-marketplace/cayan",
+		"desc": "Cayan is the leading provider of payment technology and processing solutions, offering fully integrated tools that help retail orgainzations unlock the power of payments.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Cayan_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,101,203,31,32,284],
+		"category_names" : ["Technology","Payment","POS","North America","Europe","LINK Joint Customer"]
+	},{
+		"title": "Celigo",
+		"page_uri": "/link-marketplace/celigo",
+		"desc": "Quickly and easily integrate your eCommerce platform with NetSuite, Amazon, Zendesk, and other cloud apps with Celigo.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Celigo_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,202,100,31,33,284],
+		"category_names" : ["Technology","Marketplaces","Order Management","North America","Asia Pacific","LINK Joint Customer"]
+	},{
+		"title": "Certona",
+		"page_uri": "/link-marketplace/certona",
+		"desc": "The leader in omnichannel personalization, Certona delivers the most personalized customer experiences.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Certona_WebV2.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,102,31,32,284],
+		"category_names" : ["Technology","Personalization","North America","Europe","LINK Joint Customer"]
+	},{
+		"title": "Channel Pilot",
+		"page_uri": "/link-marketplace/channel-pilot",
+		"desc": "The multichannel tool for online merchants to add their products to over 2,000 sales channels across 40 countries.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_ChannelPilot_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,96,202,32,284],
+		"category_names" : ["Technology","Comparison Shopping Engines","Marketplaces","Europe","LINK Joint Customer"]
+	},{
+		"title": "ChannelAdvisor",
+		"page_uri": "/link-marketplace/channeladvisor",
+		"desc": "ChannelAdvisor provides you with access to the top e-commerce channels worldwide.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_ChannelAdvisor_webv4.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,202,106,31,32,33,34,284],
+		"category_names" : ["Technology","Marketplaces","Search","North America","Europe","Asia Pacific","Global","LINK Joint Customer"]
+	},{
+		"title": "CLEARgo_E",
+		"page_uri": "/link-marketplace/cleargo",
+		"desc": "CLEARgo is a Hong Kong and Shanghai-based brand ecommerce agency that helps our client brands to PLAN, BUILD, OPERATE and GROW.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Cleargo_webv2.png",
+		"level" : "business",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,12,33,147,149,152,155,156,158],
+		"category_names" : ["Services","Solution","Business","Asia Pacific","24x7 Solution Support","Commerce Strategy","Implementation/Integration/Delivery","LINK Cartridge Development","Optimization","Shop Management/Merchandizing"]
+	},{
+		"title": "Clearhead_E",
+		"page_uri": "/link-marketplace/clearhead",
+		"desc": "Clearhead employs data gained through A\/B testing and analytics to help our clients confidently make digital investments",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Clearhead_webv2.png",
+		"level" : "",
+		"service_type" : ["services","affiliate"],
+		"partner_type" : ["service"],
+		"categories" :  [72,9,31,156],
+		"category_names" : ["Services","Affiliate","North America","Optimization"]
+	},{
+		"title": "Clockwork_E",
+		"page_uri": "/link-marketplace/clockwork",
+		"desc": "We are Clockwork, the digital engagement agency of Ordina.  We invent, design and create digital products and services, embodying unique propositions that make life easier and more enjoyable!",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_clockwork_Web.png",
+		"level" : "",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,147,148,149,150,152,156,283],
+		"category_names" : ["Services","Solution","24x7 Solution Support","Brand Development/Creative","Commerce Strategy","Digital Marketing Strategy","Implementation/Integration/Delivery","Optimization","LINK Joint Customer"]
+	},{
+		"title": "Clutch_E",
+		"page_uri": "/link-marketplace/clutch",
+		"desc": "Clutch is an innovative provider of Loyalty, Gift, Customer Intelligence, CRM, and Promotional Solutions.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Clutch_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,98,99,31,284],
+		"category_names" : ["Technology","Gift and Promotional Programs","Loyalty","North America","LINK Joint Customer"]
+	},{
+		"title": "Cognizant_E",
+		"page_uri": "/link-marketplace/cognizant",
+		"desc": "Global leader in business and technology services, helping our clients succeed in Digital Transformation and Omnichannel Commerce.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Cognizant_webv2.png",
+		"level" : "global",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,210,31,32,33,34,147,148,149,150,152,156,157,283],
+		"category_names" : ["Services","Solution","Global Innovation Partner","North America","Europe","Asia Pacific","Global","24x7 Solution Support","Brand Development/Creative","Commerce Strategy","Digital Marketing Strategy","Implementation/Integration/Delivery","Optimization","Retail Transformation","LINK Joint Customer"]
+	},{
+		"title": "Commerce Hub",
+		"page_uri": "/link-marketplace/CommerceHub",
+		"desc": "CommerceHub is the leading provider of e-commerce solutions and services that enable retailers and brands to access all major sources of demand, supply and delivery - through one single connection.  ",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_CommerceHub_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,96,35,31,32,284],
+		"category_names" : ["Technology","Comparison Shopping Engines","Marketing","North America","Europe","LINK Joint Customer"]
+	},{
+		"title": "Computop_E",
+		"page_uri": "/link-marketplace/computop",
+		"desc": "Computop is the leading global payment solutions provider with more than 15 years of industry and consulting experience",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Computop_webv3.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,101,31,32,33,34,284],
+		"category_names" : ["Technology","Payment","North America","Europe","Asia Pacific","Global","LINK Joint Customer"]
+	},{
+		"title": "Contactlab",
+		"page_uri": "/link-marketplace/contactlab",
+		"desc": "Contactlab offers a set of products and services to run dynamic and personalised digital direct marketing programs.",
+		"logo": "//www.demandware.com/uploads/partners/Logo_ContactLab_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,17,24,32,284],
+		"category_names" : ["Technology","Analytics","Email Marketing","Europe","LINK Joint Customer"]
+	},{
+		"title": "CONTENTSERV",
+		"page_uri": "/link-marketplace/contentserv",
+		"desc": "CONTENTSERV is a technology leader in the area of marketing solutions, especially for PIM, DAM and MRM.",
+		"logo": "//www.demandware.com/uploads/partners/logo_contentserv_web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,21,103,31,32,33],
+		"category_names" : ["Technology","Content Management Systems","Product Information Management","North America","Europe","Asia Pacific"]
+	},{
+		"title": "CoreMedia",
+		"page_uri": "/link-marketplace/coremedia",
+		"desc": "CoreMedia is a digital experience company that powers the online strategy of leading organizations.",
+		"logo": "//www.demandware.com/uploads/partners/Logo_CoreMedia_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,21,105,31,32],
+		"category_names" : ["Technology","Content Management Systems","Rich Media","North America","Europe"]
+	},{
+		"title": "Cosmic",
+		"page_uri": "/link-marketplace/cosmic",
+		"desc": "Cosmic provides retailers with the ability to extend a native online shopping experience to external channels.",
+		"logo": "//www.demandware.com/uploads/partners/Logo_Cosmic_web.jpg",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,35,202,31,32,284],
+		"category_names" : ["Technology","Marketing","Marketplaces","North America","Europe","LINK Joint Customer"]
+	},{
+		"title": "CQL, Inc.",
+		"page_uri": "/link-marketplace/cql-inc",
+		"desc": "CQL designs and builds highly integrated marketing and technology solutions that enable our customers to acquire and retain consumers locally and around the world.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_CQL_Web.png",
+		"level" : "business",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,12,31,148,149,150,152,154,155,156,237,283],
+		"category_names" : ["Services","Solution","Business","North America","Brand Development/Creative","Commerce Strategy","Digital Marketing Strategy","Implementation/Integration/Delivery","In-Store/POS Integration","LINK Cartridge Development","Optimization","Support Certified","LINK Joint Customer"]
+	},{
+		"title": "Curalate",
+		"page_uri": "/link-marketplace/curalate",
+		"desc": "Curalate enables commerce at scale by adapting off-site touchpoints for commerce and on-site experience for discovery.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Curalate_Web.png",
+		"level" : "implementation-certified",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,191,35,102,31,32,34,284],
+		"category_names" : ["Technology","Implementation Certified","Marketing","Personalization","North America","Europe","Global","LINK Joint Customer"]
+	},{
+		"title": "CyberSource_E",
+		"page_uri": "/link-marketplace/cybersource",
+		"desc": "CyberSource is an Integrated payment management platform for the digital economy, built on secure Visa infrastructure.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_CyberSource_WebV2.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,25,101,31,32,33,34,240,284],
+		"category_names" : ["Technology","Fraud","Payment","North America","Europe","Asia Pacific","Global","Apple Pay for the Web Certified","LINK Joint Customer"]
+	},{
+		"title": "D1M_E",
+		"page_uri": "/link-marketplace/d1m",
+		"desc": "D1M specializes in eCommerce in Asia Pacific, with design, consulting, IT, customer service and sales solutions for top global brands.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_D1M_Webv3.png",
+		"level" : "business",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,12,33,147,148,149,151,152,155,156,158],
+		"category_names" : ["Services","Solution","Business","Asia Pacific","24x7 Solution Support","Brand Development/Creative","Commerce Strategy","Fulfillment/Logistics/Warehousing","Implementation/Integration/Delivery","LINK Cartridge Development","Optimization","Shop Management/Merchandizing"]
+	},{
+		"title": "Deck Commerce",
+		"page_uri": "/link-marketplace/deck-commerce",
+		"desc": "Deck Commerce OMS is a distributed order management solution that powers omni-channel operations.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Deck_Commerce_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,100,31,284],
+		"category_names" : ["Technology","Order Management","North America","LINK Joint Customer"]
+	},{
+		"title": "Deloitte Digital",
+		"page_uri": "/link-marketplace/deloitte-digital",
+		"desc": "Deloitte Digital is creating a new model for a new age\u2014we\u2019re a creative digital consultancy.",
+		"logo": "//www.demandware.com/uploads/partners/Logo_DeloitteDigital_Black_Web.png",
+		"level" : "global",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,210,31,32,33,34,147,148,149,150,151,152,154,156,158],
+		"category_names" : ["Services","Solution","Global Innovation Partner","North America","Europe","Asia Pacific","Global","24x7 Solution Support","Brand Development/Creative","Commerce Strategy","Digital Marketing Strategy","Fulfillment/Logistics/Warehousing","Implementation/Integration/Delivery","In-Store/POS Integration","Optimization","Shop Management/Merchandizing"]
+	},{
+		"title": "Dentsu Digital Inc",
+		"page_uri": "/link-marketplace/dentsu-digital-inc",
+		"desc": "Dentsu Digital brings innovation to marketing through technologies, data, creativity and speed.",
+		"logo": "//www.demandware.com/uploads/partners/Logo_DentsuDigital_Web.png",
+		"level" : "",
+		"service_type" : ["services","affiliate"],
+		"partner_type" : ["service"],
+		"categories" :  [72,9,33,148,149,150,156],
+		"category_names" : ["Services","Affiliate","Asia Pacific","Brand Development/Creative","Commerce Strategy","Digital Marketing Strategy","Optimization"]
+	},{
+		"title": "Dentsu Isobar Inc.",
+		"page_uri": "/link-marketplace/dentsu-isobar-inc",
+		"desc": "We provide companies with communication design including strategic planning and strategic approaches.",
+		"logo": "//www.demandware.com/uploads/partners/logo_dentsu_web.jpg",
+		"level" : "",
+		"service_type" : ["services","affiliate"],
+		"partner_type" : ["service"],
+		"categories" :  [72,9,34,148,149,150,151,154,156,158],
+		"category_names" : ["Services","Affiliate","Global","Brand Development/Creative","Commerce Strategy","Digital Marketing Strategy","Fulfillment/Logistics/Warehousing","In-Store/POS Integration","Optimization","Shop Management/Merchandizing"]
+	},{
+		"title": "Digital Fusion",
+		"page_uri": "/link-marketplace/digital-fusion",
+		"desc": "A digital marketing agency, Digital Fusion helps Commerce Cloud customers increase sales through the Commerce Cloud.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Digital_Fusion_Web.png",
+		"level" : "",
+		"service_type" : ["services","affiliate"],
+		"partner_type" : ["service"],
+		"categories" :  [72,9,31,148,149,150,156],
+		"category_names" : ["Services","Affiliate","North America","Brand Development/Creative","Commerce Strategy","Digital Marketing Strategy","Optimization"]
+	},{
+		"title": "Digitas LBi_E",
+		"page_uri": "/link-marketplace/digitas-lbi",
+		"desc": "DigitasLBi is a marketing and technology agency that helps transform businesses for the digital age.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Digitas_webv2.png",
+		"level" : "global",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,210,31,32,33,34,147,148,149,150,152,156,283],
+		"category_names" : ["Services","Solution","Global Innovation Partner","North America","Europe","Asia Pacific","Global","24x7 Solution Support","Brand Development/Creative","Commerce Strategy","Digital Marketing Strategy","Implementation/Integration/Delivery","Optimization","LINK Joint Customer"]
+	},{
+		"title": "DK BMC",
+		"page_uri": "/link-marketplace/dk-bmc",
+		"desc": "DK BMC is a Cloud total care service company leading customer to business success and innovation.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_DK_BMC_Web.png",
+		"level" : "",
+		"service_type" : ["services","affiliate"],
+		"partner_type" : ["service"],
+		"categories" :  [72,9,33,149,150,154,156,283],
+		"category_names" : ["Services","Affiliate","Asia Pacific","Commerce Strategy","Digital Marketing Strategy","In-Store/POS Integration","Optimization","LINK Joint Customer"]
+	},{
+		"title": "dotSource_E",
+		"page_uri": "/link-marketplace/dotsource",
+		"desc": "According to the claim\u00a0\u00bbDigital Success right from the Start\u00ab\u00a0dotSource GmbH has been supporting\u00a0companies in their digital transformation and the internet presentation of their brands since 2006.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_dotSource_web.png",
+		"level" : "business",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,12,32,149,150,152,156],
+		"category_names" : ["Services","Solution","Business","Europe","Commerce Strategy","Digital Marketing Strategy","Implementation/Integration/Delivery","Optimization"]
+	},{
+		"title": "Drive Commerce Cartographer",
+		"page_uri": "/link-marketplace/drive-commerce-cartographer",
+		"desc": "Drive Commerce supports global retailers with guided shopping, product audit, and custom product software solutions.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_DriveCommerce_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,102,106,31,284],
+		"category_names" : ["Technology","Personalization","Search","North America","LINK Joint Customer"]
+	},{
+		"title": "DS Group",
+		"page_uri": "/link-marketplace/ds-group",
+		"desc": "DS Group is an Italian ICT company with a long-lasting passion for Digital Omni-Channel Solution with a very deep focus on the fashion and retail market.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_DS_Group_web.png",
+		"level" : "business",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,12,32,147,149,150,152,154,156,283],
+		"category_names" : ["Services","Solution","Business","Europe","24x7 Solution Support","Commerce Strategy","Digital Marketing Strategy","Implementation/Integration/Delivery","In-Store/POS Integration","Optimization","LINK Joint Customer"]
+	},{
+		"title": "DXC Technology",
+		"page_uri": "/link-marketplace/dxc-technology",
+		"desc": "End-to-end IT services and solutions company, helping clients harness the power of innovation to thrive on change.",
+		"logo": "//www.demandware.com/uploads/partners/Logo_DXC_Technology.jpg",
+		"level" : "",
+		"service_type" : ["services","affiliate"],
+		"partner_type" : ["service"],
+		"categories" :  [72,9,31,32,33,34,148,149,150,151,154,156,158],
+		"category_names" : ["Services","Affiliate","North America","Europe","Asia Pacific","Global","Brand Development/Creative","Commerce Strategy","Digital Marketing Strategy","Fulfillment/Logistics/Warehousing","In-Store/POS Integration","Optimization","Shop Management/Merchandizing"]
+	},{
+		"title": "DynamicAction",
+		"page_uri": "/link-marketplace/dynamicaction",
+		"desc": "SaaS advanced analytics for merchandising: connects cross-silo data and prioritizes profit driving action candidates.",
+		"logo": "//www.demandware.com/uploads/partners/Logo_DynamicAction_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,17,229,31,32,284],
+		"category_names" : ["Technology","Analytics","Customer Relationship Management","North America","Europe","LINK Joint Customer"]
+	},{
+		"title": "Dynatrace",
+		"page_uri": "/link-marketplace/dynatrace",
+		"desc": "Dynatrace provides Real User and Advanced Synthetic Monitoring of your ecommerce application to quickly solve problems",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_DynatraceNEW_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,17,235,31,32,33,34,284],
+		"category_names" : ["Technology","Analytics","Site Monitoring","North America","Europe","Asia Pacific","Global","LINK Joint Customer"]
+	},{
+		"title": "Eccelerate",
+		"page_uri": "/link-marketplace/eccelerate",
+		"desc": "Leading e-commerce consulting company in Europe with a team of former experts from Amazon, Zalando and neckermann.de. ",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_eccelerate_Web.png",
+		"level" : "",
+		"service_type" : ["services","affiliate"],
+		"partner_type" : ["service"],
+		"categories" :  [72,9,32,149,150,156,158],
+		"category_names" : ["Services","Affiliate","Europe","Commerce Strategy","Digital Marketing Strategy","Optimization","Shop Management/Merchandizing"]
+	},{
+		"title": "eCommera",
+		"page_uri": "/link-marketplace/ecommera",
+		"desc": "eCommera provides on-boarding, development and maintenance services for Salesforce Commerce Cloud to enable our clients to deliver seamless and profitable omni-channel experiences.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_eCommera-Web.png",
+		"level" : "premier",
+		"service_type" : ["services","solution","end-to-end"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,8,11,31,32,33,34,147,148,149,151,152,154,156,157,158,237,283],
+		"category_names" : ["Services","Solution","End to End","Premier","North America","Europe","Asia Pacific","Global","24x7 Solution Support","Brand Development/Creative","Commerce Strategy","Fulfillment/Logistics/Warehousing","Implementation/Integration/Delivery","In-Store/POS Integration","Optimization","Retail Transformation","Shop Management/Merchandizing","Support Certified","LINK Joint Customer"]
+	},{
+		"title": "EMAKINA",
+		"page_uri": "/link-marketplace/emakina",
+		"desc": "Emakina NL is a leading provider of enterprise ecommerce solutions in the Netherlands.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_EMAKINA_webv2.png",
+		"level" : "premier",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,11,32,147,152,156,236,283],
+		"category_names" : ["Services","Solution","Premier","Europe","24x7 Solution Support","Implementation/Integration/Delivery","Optimization","Delivery Certified","LINK Joint Customer"]
+	},{
+		"title": "Emark",
+		"page_uri": "/link-marketplace/emark",
+		"desc": "Emark delivers a full marketing technology stack, enabling brands to reach their customers anywhere and anytime with personalized interaction and data-driven campaigns.",
+		"logo": "//www.demandware.com/uploads/partners/Logo_Emark_Web.png",
+		"level" : "business",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,12,32,150,152],
+		"category_names" : ["Services","Solution","Business","Europe","Digital Marketing Strategy","Implementation/Integration/Delivery"]
+	},{
+		"title": "Emarsys",
+		"page_uri": "/link-marketplace/emarsys",
+		"desc": "Leading provider of B2C marketing cloud, enabling true, one-to-one interactions between marketers and consumers.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Emarsys_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,24,35,34,284],
+		"category_names" : ["Technology","Email Marketing","Marketing","Global","LINK Joint Customer"]
+	},{
+		"title": "eSpirit_E",
+		"page_uri": "/link-marketplace/espirit",
+		"desc": "e-Spirit's integration of Commerce Cloud and FirstSpirit (Cloud) CMS enables content-driven experiences that drive sales",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_eSpirit_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,21,35,31,32,284],
+		"category_names" : ["Technology","Content Management Systems","Marketing","North America","Europe","LINK Joint Customer"]
+	},{
+		"title": "everis",
+		"page_uri": "/link-marketplace/everis",
+		"desc": "Everis, a NTT Data company, is a multinational consulting firm providing strategic advice, business solutions, system integration, application development, maintenance, and outsourcing services.",
+		"logo": "//www.demandware.com/uploads/partners/Logo_Everis_web.jpg",
+		"level" : "business",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,12,31,32,33,34,147,149,150,151,152,154,156],
+		"category_names" : ["Services","Solution","Business","North America","Europe","Asia Pacific","Global","24x7 Solution Support","Commerce Strategy","Digital Marketing Strategy","Fulfillment/Logistics/Warehousing","Implementation/Integration/Delivery","In-Store/POS Integration","Optimization"]
+	},{
+		"title": "eWave",
+		"page_uri": "/link-marketplace/ewave",
+		"desc": "eWave is the leading and trusted Commerce Partner across the Asia Pacific region for many organizations and iconic brands. We help brands, reimagine their business, not just their websites.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_ewave_Web.png",
+		"level" : "business",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,12,33,147,148,149,150,151,152,154,156,158],
+		"category_names" : ["Services","Solution","Business","Asia Pacific","24x7 Solution Support","Brand Development/Creative","Commerce Strategy","Digital Marketing Strategy","Fulfillment/Logistics/Warehousing","Implementation/Integration/Delivery","In-Store/POS Integration","Optimization","Shop Management/Merchandizing"]
+	},{
+		"title": "Exchange Solutions",
+		"page_uri": "/link-marketplace/exchange-solutions",
+		"desc": "Predict & Influence Customer Behaviour in Real time with our Analytics Solution that focuses on both Margin and Revenue.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_ExchangeSollutions_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,99,102,31],
+		"category_names" : ["Technology","Loyalty","Personalization","North America"]
+	},{
+		"title": "Experian Data Quality_E",
+		"page_uri": "/link-marketplace/experian-qas",
+		"desc": "Experian Data Quality enhances a customer's brand experience by verifying and standardizing customer contact data.",
+		"logo": "//www.demandware.com/uploads/partners/Logo_Experian_Data_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,16,24,31,32,33,34,284],
+		"category_names" : ["Technology","Address Verification","Email Marketing","North America","Europe","Asia Pacific","Global","LINK Joint Customer"]
+	},{
+		"title": "Extole_E",
+		"page_uri": "/link-marketplace/extole",
+		"desc": "Extole's referral marketing platform enables marketers to acquire better customers at scale.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Extole_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,229,35,31,284],
+		"category_names" : ["Technology","Customer Relationship Management","Marketing","North America","LINK Joint Customer"]
+	},{
+		"title": "Fanplayr",
+		"page_uri": "/link-marketplace/fanplayr",
+		"desc": "Discover new value in existing site traffic. Deliver relevant, timely offers & personalized content to defined segments.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Fanplayr_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,102,108,31,32,33,34,284],
+		"category_names" : ["Technology","Personalization","Shopping Cart Abandonment","North America","Europe","Asia Pacific","Global","LINK Joint Customer"]
+	},{
+		"title": "Feefo_E",
+		"page_uri": "/link-marketplace/feefo",
+		"desc": "Feefo collects genuine customer ratings and reviews. Feefo enables businesses to gain business intelligence and an increase in sales though feedback from  online and in-store transactions.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Feefo_web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,99,104,31,32,284],
+		"category_names" : ["Technology","Loyalty","Ratings and Reviews","North America","Europe","LINK Joint Customer"]
+	},{
+		"title": "Flow Commerce",
+		"page_uri": "/link-marketplace/flow-commerce",
+		"desc": "Flow is the world\u2019s most advanced solution for cross-border e-commerce, enabling retailers to sell products globally.",
+		"logo": "//www.demandware.com/uploads/partners/Logo_Flow_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,97,101,31,32],
+		"category_names" : ["Technology","Cross-Border Fulfillment","Payment","North America","Europe"]
+	},{
+		"title": "Fluid_E",
+		"page_uri": "/link-marketplace/fluid",
+		"desc": "Fluid's core competencies fuse together to create commerce experiences and software that turn shoppers into buyers.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Fluid_webv2.png",
+		"level" : "premier",
+		"service_type" : ["services","solution","technology"],
+		"partner_type" : ["service", "technology"],
+		"categories" :  [72,7,6,11,102,103,31,32,147,148,149,152,156,236,237,283,284],
+		"category_names" : ["Services","Solution","Technology","Premier","Personalization","Product Information Management","North America","Europe","24x7 Solution Support","Brand Development/Creative","Commerce Strategy","Implementation/Integration/Delivery","Optimization","Delivery Certified","Support Certified","LINK Joint Customer","LINK Joint Customer"]
+	},{
+		"title": "Formula 3 Group_E",
+		"page_uri": "/link-marketplace/formula-3-group",
+		"desc": "Formula 3 Group is digital marketing innovation and ecommerce.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_f3g_webv2.png",
+		"level" : "",
+		"service_type" : ["services","affiliate"],
+		"partner_type" : ["service"],
+		"categories" :  [72,9,31,149,150],
+		"category_names" : ["Services","Affiliate","North America","Commerce Strategy","Digital Marketing Strategy"]
+	},{
+		"title": "Forter",
+		"page_uri": "/link-marketplace/forter",
+		"desc": "Forter's new generation antifraud solution helps businesses grow sales, improve customer experience and decrease fraud. Each order receives an instant, guaranteed approve\/decline fraud decision.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Forter_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,25,107,31,32,33,34,284],
+		"category_names" : ["Technology","Fraud","Security","North America","Europe","Asia Pacific","Global","LINK Joint Customer"]
+	},{
+		"title": "Frucon_E",
+		"page_uri": "/link-marketplace/frucon",
+		"desc": "The single source partner for your online store and omni-channel solution in Europe.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Frucon_webv2.png",
+		"level" : "",
+		"service_type" : ["services","end-to-end"],
+		"partner_type" : ["service"],
+		"categories" :  [72,8,31,32,151,152,156,158],
+		"category_names" : ["Services","End to End","North America","Europe","Fulfillment/Logistics/Warehousing","Implementation/Integration/Delivery","Optimization","Shop Management/Merchandizing"]
+	},{
+		"title": "FuturePay",
+		"page_uri": "/link-marketplace/futurepay",
+		"desc": "FuturePay's award-winning payment option gives shoppers an affordable way to buy now and pay later without a credit card",
+		"logo": "//www.demandware.com/uploads/partners/Web_FuturePay_Logo.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,36,101,31],
+		"category_names" : ["Technology","Mobile","Payment","North America"]
+	},{
+		"title": "Gen3 Marketing_E",
+		"page_uri": "/link-marketplace/gen3-marketing",
+		"desc": "Gen3 Marketing is an award-winning agency focused on affiliate marketing SEM\/SEO, display and digital PR. Gen3 successfully manages digital marketing programs for over a dozen Commerce Cloud clients.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Gen3_web.png",
+		"level" : "",
+		"service_type" : ["services","affiliate"],
+		"partner_type" : ["service"],
+		"categories" :  [72,9,31,150],
+		"category_names" : ["Services","Affiliate","North America","Digital Marketing Strategy"]
+	},{
+		"title": "Gigya_E",
+		"page_uri": "/link-marketplace/gigya",
+		"desc": "Gigya is Software as a Service technology that helps to integrate online businesses with the top social networks.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Gigya_webv3.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,109,31,32,33,34,284],
+		"category_names" : ["Technology","Social","North America","Europe","Asia Pacific","Global","LINK Joint Customer"]
+	},{
+		"title": "Global-e",
+		"page_uri": "/link-marketplace/global-e",
+		"desc": "Global-e enables retailers and brands to simply transact locally with cross-border shoppers worldwide.  ",
+		"logo": "//www.demandware.com/uploads/partners/Logo_Global_E_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,97,112,31,32,284],
+		"category_names" : ["Technology","Cross-Border Fulfillment","Tax","North America","Europe","LINK Joint Customer"]
+	},{
+		"title": "GMO Payment Gateway",
+		"page_uri": "/link-marketplace/gmo-payment-gateway",
+		"desc": "GMO Payment Gateway, Inc. is one of the largest payment service provider in Japan providing online payment solutions to more than 59,000 merchants.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_GMO_Payments_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,101,33,284],
+		"category_names" : ["Technology","Payment","Asia Pacific","LINK Joint Customer"]
+	},{
+		"title": "GPShopper_E",
+		"page_uri": "/link-marketplace/gpshopper",
+		"desc": "GPShopper builds native IOS and Android mobile apps for retailers on a scalable and secure platform focused on Commerce, Loyalty, In-Store and Social Engagement.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_GPShopper_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,35,36,31,284],
+		"category_names" : ["Technology","Marketing","Mobile","North America","LINK Joint Customer"]
+	},{
+		"title": "Greenlight Commerce",
+		"page_uri": "/link-marketplace/greenlight-commerce",
+		"desc": "Greenlight Commerce is a digital transformation and eCommerce solutions provider with an absolute focus on building clients transactional sites and supporting them to grow revenues.\u00a0",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Greenlight_Commerce_Web.png",
+		"level" : "business",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,12,32,33,147,148,149,150,152,154,155,156,283],
+		"category_names" : ["Services","Solution","Business","Europe","Asia Pacific","24x7 Solution Support","Brand Development/Creative","Commerce Strategy","Digital Marketing Strategy","Implementation/Integration/Delivery","In-Store/POS Integration","LINK Cartridge Development","Optimization","LINK Joint Customer"]
+	},{
+		"title": "Guidance",
+		"page_uri": "/link-marketplace/guidance",
+		"desc": "Guidance is an award winning, full service commerce solutions provider with proven expertise in retail strategy, accelerating revenue growth, design, UI\/UX, system integration and development.   ",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Guidance_webv2.png",
+		"level" : "business",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,12,31,147,148,149,150,151,152,154,155,156,158],
+		"category_names" : ["Services","Solution","Business","North America","24x7 Solution Support","Brand Development/Creative","Commerce Strategy","Digital Marketing Strategy","Fulfillment/Logistics/Warehousing","Implementation/Integration/Delivery","In-Store/POS Integration","LINK Cartridge Development","Optimization","Shop Management/Merchandizing"]
+	},{
+		"title": "HiConversion_E",
+		"page_uri": "/link-marketplace/hiconversion",
+		"desc": "Enabling customer powered e-commerce. Adaptive testing & personalization with integrated customer experience analytics. ",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_HiConversion_WebV2.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,102,113,31,284],
+		"category_names" : ["Technology","Personalization","Testing and Segmentation","North America","LINK Joint Customer"]
+	},{
+		"title": "Highstreet",
+		"page_uri": "/link-marketplace/highstreet",
+		"desc": "Highstreet is a leading mobile commerce technology company that provides businesses a single platform to publish a unified mobile retail app experience on any device and on all major mobile platforms.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Highstreet_Web2.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,99,36,32,284],
+		"category_names" : ["Technology","Loyalty","Mobile","Europe","LINK Joint Customer"]
+	},{
+		"title": "HiPay",
+		"page_uri": "/link-marketplace/hipay",
+		"desc": "HiPay is a global payments company that partners with our customers to help grow their business while minimizing risk.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_HiPay_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,101,31,32,284],
+		"category_names" : ["Technology","Payment","North America","Europe","LINK Joint Customer"]
+	},{
+		"title": "iamota",
+		"page_uri": "/link-marketplace/iamota",
+		"desc": "A full service digital agency that thinks, creates and codes remarkable digital experiences for people across all screens.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_iamota_web.png",
+		"level" : "",
+		"service_type" : ["services","affiliate"],
+		"partner_type" : ["service"],
+		"categories" :  [72,9,31,148,149,150,156],
+		"category_names" : ["Services","Affiliate","North America","Brand Development/Creative","Commerce Strategy","Digital Marketing Strategy","Optimization"]
+	},{
+		"title": "ICAN MANAGEMENT INC.",
+		"page_uri": "/link-marketplace/ican-management-inc",
+		"desc": "Technology leader in e-Commerce solution focused on consulting and service for customer success",
+		"logo": "//www.demandware.com/uploads/partners/logo_ican_web.png",
+		"level" : "",
+		"service_type" : ["services","affiliate"],
+		"partner_type" : ["service"],
+		"categories" :  [72,9,33,149,150,151,154,156,158],
+		"category_names" : ["Services","Affiliate","Asia Pacific","Commerce Strategy","Digital Marketing Strategy","Fulfillment/Logistics/Warehousing","In-Store/POS Integration","Optimization","Shop Management/Merchandizing"]
+	},{
+		"title": "Ideatarmac",
+		"page_uri": "/link-marketplace/ideatarmac",
+		"desc": "Automation of troubleshooting, code performance analysis and monitoring for ecommerce, driven by Machine Learning.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Ideatarmac_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,17,235,32,33,284],
+		"category_names" : ["Technology","Analytics","Site Monitoring","Europe","Asia Pacific","LINK Joint Customer"]
+	},{
+		"title": "IE Agency",
+		"page_uri": "/link-marketplace/ie-agency",
+		"desc": "IE is a digital innovation agency. We are recognised leaders that drive business outcomes for progressive organisations like Telstra, Nike, Sportsgirl, Tourism Victoria, Crown and Movember.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_IEagency_Web.png",
+		"level" : "business",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,12,33,148,149,150,152,154,156,157],
+		"category_names" : ["Services","Solution","Business","Asia Pacific","Brand Development/Creative","Commerce Strategy","Digital Marketing Strategy","Implementation/Integration/Delivery","In-Store/POS Integration","Optimization","Retail Transformation"]
+	},{
+		"title": "Ignition Commerce",
+		"page_uri": "/link-marketplace/ignition-commerce",
+		"desc": "Since 2010, Ignition Commerce has been selected by 10 clients to provide 16 implementations of Demandware.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_ignition_webv2.png",
+		"level" : "business",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,12,31,147,152,156,236,283],
+		"category_names" : ["Services","Solution","Business","North America","24x7 Solution Support","Implementation/Integration/Delivery","Optimization","Delivery Certified","LINK Joint Customer"]
+	},{
+		"title": "Impact Radius",
+		"page_uri": "/link-marketplace/impact-radius",
+		"desc": "Drastically reduce your technical integration time. Promote and sync your product ads in real time.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_ImpactRadius_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,35,111,31,32,33,34,284],
+		"category_names" : ["Technology","Marketing","Tag Management","North America","Europe","Asia Pacific","Global","LINK Joint Customer"]
+	},{
+		"title": "Improove",
+		"page_uri": "/link-marketplace/improove",
+		"desc": "Improove is focused on helping brands in the nordic region expand globally.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Improove_Web.png",
+		"level" : "business",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,12,32,148,149,152,156,283],
+		"category_names" : ["Services","Solution","Business","Europe","Brand Development/Creative","Commerce Strategy","Implementation/Integration/Delivery","Optimization","LINK Joint Customer"]
+	},{
+		"title": "Informatica_E",
+		"page_uri": "/link-marketplace/informatica",
+		"desc": "Informatica MDM - Product 360 provides a 360 product view and a certified interface for Salesforce Commerce Cloud.  ",
+		"logo": "//www.demandware.com/uploads/partners/Logo_Informatica_Web_1.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,103,105,31,32,33,34,284],
+		"category_names" : ["Technology","Product Information Management","Rich Media","North America","Europe","Asia Pacific","Global","LINK Joint Customer"]
+	},{
+		"title": "Infosys Limited",
+		"page_uri": "/link-marketplace/infosys-limited",
+		"desc": "Infosys is a global leader in consulting, technology and outsourcing solutions.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Infosys_webv2.png",
+		"level" : "business",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,12,31,32,33,34,147,148,149,150,152,156,157,283],
+		"category_names" : ["Services","Solution","Business","North America","Europe","Asia Pacific","Global","24x7 Solution Support","Brand Development/Creative","Commerce Strategy","Digital Marketing Strategy","Implementation/Integration/Delivery","Optimization","Retail Transformation","LINK Joint Customer"]
+	},{
+		"title": "Ingenico ePayment, GlobalCollect Platform",
+		"page_uri": "/link-marketplace/ingenico-epayment-globalcollect-platform",
+		"desc": "Accept local payments anywhere in the world easily and efficiently with the Ingenico ePayments \u201cGlobalCollect platform\u201d.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Global_Collect_IPS_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,101,31,32,33,34,284],
+		"category_names" : ["Technology","Payment","North America","Europe","Asia Pacific","Global","LINK Joint Customer"]
+	},{
+		"title": "Ingenico ePayments, Ogone  Platform",
+		"page_uri": "/link-marketplace/ingenico-epayments-ogone-platform",
+		"desc": "Accept online payments effortlessly with the Ingenico ePayments \"Ogone Platform\"",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Ogone_IPS_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,101,31,32,33,34,284],
+		"category_names" : ["Technology","Payment","North America","Europe","Asia Pacific","Global","LINK Joint Customer"]
+	},{
+		"title": "inRiver",
+		"page_uri": "/link-marketplace/inriver",
+		"desc": "inRiver is the leader in simplifying Product Information Management (PIM) by putting the power in the hands of the user.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_inRiver_WebV2.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,103,31,32,284],
+		"category_names" : ["Technology","Product Information Management","North America","Europe","LINK Joint Customer"]
+	},{
+		"title": "Intelligent Reach",
+		"page_uri": "/link-marketplace/intelligent-reach",
+		"desc": "Intelligent Reach is the leading Product Performance Platform; we maximize your data quality and launch, manage and optimize multi-channel marketing across 800+ channels incl...Amazon, eBay and Google",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_IntelligentReach_WebV2.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,95,96,31,32,33,34,284],
+		"category_names" : ["Technology","Advertising","Comparison Shopping Engines","North America","Europe","Asia Pacific","Global","LINK Joint Customer"]
+	},{
+		"title": "Inviqa",
+		"page_uri": "/link-marketplace/inviqa",
+		"desc": "Inviqa is an award-winning technology partner that engineers ecommerce systems for leading brands in the UK & Germany.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Inviqa_Web.png",
+		"level" : "business",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,12,32,148,152,156,283],
+		"category_names" : ["Services","Solution","Business","Europe","Brand Development/Creative","Implementation/Integration/Delivery","Optimization","LINK Joint Customer"]
+	},{
+		"title": "Isobar_E",
+		"page_uri": "/link-marketplace/isobar",
+		"desc": "Founded in 2003, Isobar is the world's most global digital agency powered by 4000+ people across 44 markets.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Isobar_Web.png",
+		"level" : "",
+		"service_type" : ["services","affiliate"],
+		"partner_type" : ["service"],
+		"categories" :  [72,9,31,32,33,34,148,149,150,156,283],
+		"category_names" : ["Services","Affiliate","North America","Europe","Asia Pacific","Global","Brand Development/Creative","Commerce Strategy","Digital Marketing Strategy","Optimization","LINK Joint Customer"]
+	},{
+		"title": "Itelios SAS",
+		"page_uri": "/link-marketplace/itelios-sas",
+		"desc": "ITELIOS is a leading implementation partner dedicated to connected commerce success for brands in France and Brazil.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Itelios_webv2.png",
+		"level" : "business",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,12,32,149,152,154,156,236,283],
+		"category_names" : ["Services","Solution","Business","Europe","Commerce Strategy","Implementation/Integration/Delivery","In-Store/POS Integration","Optimization","Delivery Certified","LINK Joint Customer"]
+	},{
+		"title": "Iterate Studio",
+		"page_uri": "/link-marketplace/iterate-studio",
+		"desc": "Our innovation cartridge gives you safe, easy access to proven startups to dramatically improve your eCommerce results.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Iterate_Studio_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,102,113,31],
+		"category_names" : ["Technology","Personalization","Testing and Segmentation","North America"]
+	},{
+		"title": "Itonomy, a Cronos Group corporation",
+		"page_uri": "/link-marketplace/itonomy-a-cronos-group-corporation",
+		"desc": "Itonomy is a commerce company with a strong focus on retail\/omni-channel consultancy and system integration.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Itonomy_web.png",
+		"level" : "",
+		"service_type" : ["services","affiliate"],
+		"partner_type" : ["service"],
+		"categories" :  [72,9,32,149,151,154,156,158],
+		"category_names" : ["Services","Affiliate","Europe","Commerce Strategy","Fulfillment/Logistics/Warehousing","In-Store/POS Integration","Optimization","Shop Management/Merchandizing"]
+	},{
+		"title": "Janrain",
+		"page_uri": "/link-marketplace/janrain",
+		"desc": "Janrain is the recognized leader in the use of social identities to drive better online user experiences.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Janrain_webv3.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,39,35,104,109,34,284],
+		"category_names" : ["Technology","Live Chat","Marketing","Ratings and Reviews","Social","Global","LINK Joint Customer"]
+	},{
+		"title": "Javelin Group, Ltd.",
+		"page_uri": "/link-marketplace/javelin-group-ltd",
+		"desc": "Javelin Group, part of Accenture Strategy, provides retail strategy consulting and systems integration services to the world's leading retailers\/brands.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_JavelinGroup_Web_Lg.png",
+		"level" : "global",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,210,32,147,148,149,150,151,152,154,155,156,157,158,283],
+		"category_names" : ["Services","Solution","Global Innovation Partner","Europe","24x7 Solution Support","Brand Development/Creative","Commerce Strategy","Digital Marketing Strategy","Fulfillment/Logistics/Warehousing","Implementation/Integration/Delivery","In-Store/POS Integration","LINK Cartridge Development","Optimization","Retail Transformation","Shop Management/Merchandizing","LINK Joint Customer"]
+	},{
+		"title": "javengo.GmbH_E",
+		"page_uri": "/link-marketplace/javengogmbh",
+		"desc": "javengo is a Demandware specialist for complex and individual ecommerce projects that use the Salesforce Commerce Cloud.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Javengo_webv2.png",
+		"level" : "business",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,12,32,147,152,156,283],
+		"category_names" : ["Services","Solution","Business","Europe","24x7 Solution Support","Implementation/Integration/Delivery","Optimization","LINK Joint Customer"]
+	},{
+		"title": "Klarna_E",
+		"page_uri": "/link-marketplace/klarna",
+		"desc": "Klarna is the leading European payment provider. We serve 35 million consumers and work with 50,000 merchants. Our goal is to become the world's favorite way to buy.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Klarna_webv3.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,230,101,31,32,284],
+		"category_names" : ["Technology","Online Checkout","Payment","North America","Europe","LINK Joint Customer"]
+	},{
+		"title": "Kount",
+		"page_uri": "/link-marketplace/kount",
+		"desc": "Kount helps businesses boost sales by reducing fraud and allowing them to accept more orders.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Kount_WebV2.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,25,31,284],
+		"category_names" : ["Technology","Fraud","North America","LINK Joint Customer"]
+	},{
+		"title": "Linc Global",
+		"page_uri": "/link-marketplace/linc-global",
+		"desc": "Linc is the shopper delight platform for brands to make shoppers even happier after they buy.  We delight shoppers by anticipating their needs thru real-time info inside a mobile first experience.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_LincGlobal_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,102,233,31,284],
+		"category_names" : ["Technology","Personalization","Post-Purchase","North America","LINK Joint Customer"]
+	},{
+		"title": "Lingo24_E",
+		"page_uri": "/link-marketplace/lingo24",
+		"desc": "Lingo24 is a leading global language service provider focused on making it faster, simpler and cheaper for ecommerce retailers to grow into new markets.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Lingo24_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,114,31,32,33,34,284],
+		"category_names" : ["Technology","Translations","North America","Europe","Asia Pacific","Global","LINK Joint Customer"]
+	},{
+		"title": "Listrak_E",
+		"page_uri": "/link-marketplace/listrak",
+		"desc": "Listrak offers retail-specific solutions to help merchants create personalized experiences across all customer touchpoints from a single, integrated digital marketing platform.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Listrak_webv3.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,24,31,32,33,34,284],
+		"category_names" : ["Technology","Email Marketing","North America","Europe","Asia Pacific","Global","LINK Joint Customer"]
+	},{
+		"title": "LiveArea, The PFS Agency",
+		"page_uri": "/link-marketplace/livearealabs",
+		"desc": "LiveArea is a full-service digital retail agency. We create digital flagship experiences for global passion brands with world-class strategy, design, technology, and digital marketing services.",
+		"logo": "//www.demandware.com/uploads/partners/Logo_LiveArea_Web.jpg",
+		"level" : "premier",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,11,31,32,147,148,149,150,152,156,157,158,283],
+		"category_names" : ["Services","Solution","Premier","North America","Europe","24x7 Solution Support","Brand Development/Creative","Commerce Strategy","Digital Marketing Strategy","Implementation/Integration/Delivery","Optimization","Retail Transformation","Shop Management/Merchandizing","LINK Joint Customer"]
+	},{
+		"title": "Loop Commerce",
+		"page_uri": "/link-marketplace/loop-commerce",
+		"desc": "Loop Commerce is an enterprise-grade SaaS platform and turnkey checkout solution that seamlessly integrates with a retailer's online store to make every product giftable.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_LoopCommerce_WebV2.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,98,108,31,284],
+		"category_names" : ["Technology","Gift and Promotional Programs","Shopping Cart Abandonment","North America","LINK Joint Customer"]
+	},{
+		"title": "Lyons Consulting Group",
+		"page_uri": "/link-marketplace/lyons-consulting-group",
+		"desc": "The premier digital ecommerce agency specializing in strategy, ux\/design, development, hosting and ongoing support.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Lyons_v2_webv3.png",
+		"level" : "strategic",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,10,31,32,147,148,149,152,155,156,236,237,283],
+		"category_names" : ["Services","Solution","Strategic","North America","Europe","24x7 Solution Support","Brand Development/Creative","Commerce Strategy","Implementation/Integration/Delivery","LINK Cartridge Development","Optimization","Delivery Certified","Support Certified","LINK Joint Customer"]
+	},{
+		"title": "Media Hive",
+		"page_uri": "/link-marketplace/media-hive",
+		"desc": "Media Hive builds cross-channel commerce solutions for global brands",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_mediahive_webv2.png",
+		"level" : "business",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,12,31,147,149,152,156,236,283],
+		"category_names" : ["Services","Solution","Business","North America","24x7 Solution Support","Commerce Strategy","Implementation/Integration/Delivery","Optimization","Delivery Certified","LINK Joint Customer"]
+	},{
+		"title": "minubo_E",
+		"page_uri": "/link-marketplace/minubo",
+		"desc": "minubo is Commerce Intelligence providing a full omni-channel data base, 360\u00b0 customer profiles and proactive insights.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Minubo_Web2.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,17,229,31,32,284],
+		"category_names" : ["Technology","Analytics","Customer Relationship Management","North America","Europe","LINK Joint Customer"]
+	},{
+		"title": "Mobify",
+		"page_uri": "/link-marketplace/mobify",
+		"desc": "Mobify is the #1 provider of Progressive Web Apps for commerce, creating engaging mobile experiences that drive revenue.",
+		"logo": "//www.demandware.com/uploads/partners/Logo_Mobify_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,36,108,31,32,33,34,284],
+		"category_names" : ["Technology","Mobile","Shopping Cart Abandonment","North America","Europe","Asia Pacific","Global","LINK Joint Customer"]
+	},{
+		"title": "Mobizcorp",
+		"page_uri": "/link-marketplace/mobizcorp",
+		"desc": "Mobizcorp, a Salesforce Commerce Cloud Premier Solution Partner, works with many of the world's leading brands. Excellence is our passion from strategy and implementation to optimization and support. ",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Mobizcorp_webv2.png",
+		"level" : "premier",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,11,31,32,147,148,149,150,152,154,155,156,157,158,236,283],
+		"category_names" : ["Services","Solution","Premier","North America","Europe","24x7 Solution Support","Brand Development/Creative","Commerce Strategy","Digital Marketing Strategy","Implementation/Integration/Delivery","In-Store/POS Integration","LINK Cartridge Development","Optimization","Retail Transformation","Shop Management/Merchandizing","Delivery Certified","LINK Joint Customer"]
+	},{
+		"title": "Moku Collective",
+		"page_uri": "/link-marketplace/moku-collective",
+		"desc": "Moku Collective helps brands maximize their digital potential by building global eBusinesses through strategy and technology.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Moku_webv2.png",
+		"level" : "premier",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,11,31,32,147,149,150,152,155,156,157,158,236,237,283],
+		"category_names" : ["Services","Solution","Premier","North America","Europe","24x7 Solution Support","Commerce Strategy","Digital Marketing Strategy","Implementation/Integration/Delivery","LINK Cartridge Development","Optimization","Retail Transformation","Shop Management/Merchandizing","Delivery Certified","Support Certified","LINK Joint Customer"]
+	},{
+		"title": "Momentum Digital Solutions",
+		"page_uri": "/link-marketplace/momentum-digital-solutions",
+		"desc": "Momentum delivers innovative end-to-end digital omni-channel solutions that yield the most from technology and marketing investments - resulting in greater efficiency and profitability.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Momentum_Web.png",
+		"level" : "business",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,12,31,32,34,147,148,149,150,152,154,155,156,283],
+		"category_names" : ["Services","Solution","Business","North America","Europe","Global","24x7 Solution Support","Brand Development/Creative","Commerce Strategy","Digital Marketing Strategy","Implementation/Integration/Delivery","In-Store/POS Integration","LINK Cartridge Development","Optimization","LINK Joint Customer"]
+	},{
+		"title": "Monetate_E",
+		"page_uri": "/link-marketplace/monetate",
+		"desc": "Monetate powers multi-channel personalization for the world's best brands. The Monetate Platform allows marketers to quickly and easily create, test and deploy personalized digital experiences.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Monetate_WebV2.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,102,113,31,32,284],
+		"category_names" : ["Technology","Personalization","Testing and Segmentation","North America","Europe","LINK Joint Customer"]
+	},{
+		"title": "Moovweb",
+		"page_uri": "/link-marketplace/moovweb",
+		"desc": "MoovCheckout for Salesforce Commerce Cloud increases mobile checkout conversions and reduces shopping cart abandonment rates.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Moovweb_WebV2.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,36,108,31,32,284],
+		"category_names" : ["Technology","Mobile","Shopping Cart Abandonment","North America","Europe","LINK Joint Customer"]
+	},{
+		"title": "NaverPay",
+		"page_uri": "/link-marketplace/naverpay",
+		"desc": "NaverPay is the leading Korean payment provider. We serve 22 million customers and work with 130,000 merchants.",
+		"logo": "//www.demandware.com/uploads/partners/Logo_NaverPay_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,96,101,33],
+		"category_names" : ["Technology","Comparison Shopping Engines","Payment","Asia Pacific"]
+	},{
+		"title": "Needle",
+		"page_uri": "/link-marketplace/needle",
+		"desc": "Needle is the leading eCommerce Sales Chat platform.  Increase sales, improve customer experience and drive more traffic.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Needle_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,39,31,284],
+		"category_names" : ["Technology","Live Chat","North America","LINK Joint Customer"]
+	},{
+		"title": "neveling.net GmbH",
+		"page_uri": "/link-marketplace/neveling-net-gmbh",
+		"desc": "neveling.net is a specialist building global websites and eCommerce solutions with worldwide client rollouts.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Neveling_web.png",
+		"level" : "",
+		"service_type" : ["services","affiliate"],
+		"partner_type" : ["service"],
+		"categories" :  [72,9,148,149,150,156],
+		"category_names" : ["Services","Affiliate","Brand Development/Creative","Commerce Strategy","Digital Marketing Strategy","Optimization"]
+	},{
+		"title": "Newmine",
+		"page_uri": "/link-marketplace/newmine",
+		"desc": "Omni-channel retail consulting to retailers, consumer brands and private equity firms with retail portfolios.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Newmine_web.png",
+		"level" : "",
+		"service_type" : ["services","affiliate"],
+		"partner_type" : ["service"],
+		"categories" :  [72,9,31,32,149,151,154,156,157],
+		"category_names" : ["Services","Affiliate","North America","Europe","Commerce Strategy","Fulfillment/Logistics/Warehousing","In-Store/POS Integration","Optimization","Retail Transformation"]
+	},{
+		"title": "nexum AG",
+		"page_uri": "/link-marketplace/nexum",
+		"desc": "nexum is the consultancy and agency for communication, interaction and transaction in the digital age. ",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Nexum_web.png",
+		"level" : "business",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,12,32,148,149,150,156,283],
+		"category_names" : ["Services","Solution","Business","Europe","Brand Development/Creative","Commerce Strategy","Digital Marketing Strategy","Optimization","LINK Joint Customer"]
+	},{
+		"title": "Niji",
+		"page_uri": "/link-marketplace/niji",
+		"desc": "Niji combines consulting, design and technology, taking your business to the era of digital economy.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Niji_Web.png",
+		"level" : "business",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,12,32,148,149,150,152,154,156,158],
+		"category_names" : ["Services","Solution","Business","Europe","Brand Development/Creative","Commerce Strategy","Digital Marketing Strategy","Implementation/Integration/Delivery","In-Store/POS Integration","Optimization","Shop Management/Merchandizing"]
+	},{
+		"title": "NORSE Digital",
+		"page_uri": "/link-marketplace/norse-digital",
+		"desc": "Norse Digital builds digital solutions that engage users and automate business processes.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Norse_webv2.png",
+		"level" : "business",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,12,31,32,147,148,149,152,156,283],
+		"category_names" : ["Services","Solution","Business","North America","Europe","24x7 Solution Support","Brand Development/Creative","Commerce Strategy","Implementation/Integration/Delivery","Optimization","LINK Joint Customer"]
+	},{
+		"title": "Norton",
+		"page_uri": "/link-marketplace/norton",
+		"desc": "Give shoppers true confidence by offering Identity Theft Protection, a Purchase Guarantee, and a Low Price Guarantee.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Norton_2_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,107,108,31,32],
+		"category_names" : ["Technology","Security","Shopping Cart Abandonment","North America","Europe"]
+	},{
+		"title": "NTT DATA Smart Sourcing Corporation",
+		"page_uri": "/link-marketplace/ntt-data-smart-sourcing-corporation",
+		"desc": "NTT DATA Smart Sourcing is an eCommerce solutions provider in Japan with a full range of services, such as digital marketing, UX design, implementation, order fulfillment, and customer care.",
+		"logo": "//www.demandware.com/uploads/partners/Logo_NDSS_Web.png",
+		"level" : "business",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,12,33,148,149,150,151,152,156],
+		"category_names" : ["Services","Solution","Business","Asia Pacific","Brand Development/Creative","Commerce Strategy","Digital Marketing Strategy","Fulfillment/Logistics/Warehousing","Implementation/Integration/Delivery","Optimization"]
+	},{
+		"title": "Nurun",
+		"page_uri": "/link-marketplace/nurun",
+		"desc": "We're a creative business specializing in connected products, services and experiences that transform consumer relationships, through human-centered design by inventive humans.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_nurun_webv2.png",
+		"level" : "business",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,12,31,32,33,34,147,148,149,150,152,154,156,157,158],
+		"category_names" : ["Services","Solution","Business","North America","Europe","Asia Pacific","Global","24x7 Solution Support","Brand Development/Creative","Commerce Strategy","Digital Marketing Strategy","Implementation/Integration/Delivery","In-Store/POS Integration","Optimization","Retail Transformation","Shop Management/Merchandizing"]
+	},{
+		"title": "Olapic_E",
+		"page_uri": "/link-marketplace/olapic",
+		"desc": "Olapic's Earned Content Platform amplifies engagement and performance with curated images & videos taken by real people.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Olapic_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,35,109,31,32,284],
+		"category_names" : ["Technology","Marketing","Social","North America","Europe","LINK Joint Customer"]
+	},{
+		"title": "Onstate",
+		"page_uri": "/link-marketplace/onstate",
+		"desc": "A full-service creative ecommerce agency, with expertise in building and supporting successful ecommerce\/multi-channel businesses, providing class-leading digital experiences for our clients. ",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Onstate_Web.png",
+		"level" : "business",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,12,32,147,148,149,150,152,154,156,283],
+		"category_names" : ["Services","Solution","Business","Europe","24x7 Solution Support","Brand Development/Creative","Commerce Strategy","Digital Marketing Strategy","Implementation/Integration/Delivery","In-Store/POS Integration","Optimization","LINK Joint Customer"]
+	},{
+		"title": "Openmind",
+		"page_uri": "/link-marketplace/openmind",
+		"desc": "Advisory, design and technology. We select the cutting-edge technology to deliver a unified eCommerce process on every touch-point and every channel, for a compelling and engaging Customer Experience.",
+		"logo": "//www.demandware.com/uploads/partners/Logo_OpenMind_Web.png",
+		"level" : "business",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,12,32,147,148,149,150,152,156,158],
+		"category_names" : ["Services","Solution","Business","Europe","24x7 Solution Support","Brand Development/Creative","Commerce Strategy","Digital Marketing Strategy","Implementation/Integration/Delivery","Optimization","Shop Management/Merchandizing"]
+	},{
+		"title": "OPM Pros",
+		"page_uri": "/link-marketplace/opm-pros",
+		"desc": "OPM Pros is a leading award-winning global agency specializing in affiliate marketing.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_OPM_Pros_Web.png",
+		"level" : "",
+		"service_type" : ["services","affiliate"],
+		"partner_type" : ["service"],
+		"categories" :  [72,9,31,150,156],
+		"category_names" : ["Services","Affiliate","North America","Digital Marketing Strategy","Optimization"]
+	},{
+		"title": "Optaros_E",
+		"page_uri": "/link-marketplace/optaros",
+		"desc": "Optaros is a digital commerce partner. We're part creative agency, part systems integrator and part strategic consultancy.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Optaros_webv2.png",
+		"level" : "business",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,12,31,32,147,152,156,283],
+		"category_names" : ["Services","Solution","Business","North America","Europe","24x7 Solution Support","Implementation/Integration/Delivery","Optimization","LINK Joint Customer"]
+	},{
+		"title": "Optimizely",
+		"page_uri": "/link-marketplace/optimizely",
+		"desc": "Optimizely is the world's leading provider of A\/B testing, personalization, targeting, and multichannel optimization for websites and mobile apps.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Optimizely_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,102,113,31,32,33,34,284],
+		"category_names" : ["Technology","Personalization","Testing and Segmentation","North America","Europe","Asia Pacific","Global","LINK Joint Customer"]
+	},{
+		"title": "OrderDynamics",
+		"page_uri": "/link-marketplace/orderdynamics",
+		"desc": "Powering retail fulfillment with a deep, feature-rich Order Management System that drives  omni-channel retail shopping",
+		"logo": "//www.demandware.com/uploads/partners/Logo_OrderDynamics_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,100,31,32,34],
+		"category_names" : ["Technology","Order Management","North America","Europe","Global"]
+	},{
+		"title": "OSF CartUP",
+		"page_uri": "/link-marketplace/osf-cartup",
+		"desc": "Cart abandonment tool by OSF. Send recovery email triggers to customers who have not checked out to recover lost revenue",
+		"logo": "//www.demandware.com/uploads/partners/OSF_CartUP_Logo_LINK.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,24,108,31,32,33,34,284],
+		"category_names" : ["Technology","Email Marketing","Shopping Cart Abandonment","North America","Europe","Asia Pacific","Global","LINK Joint Customer"]
+	},{
+		"title": "OSF Commerce",
+		"page_uri": "/link-marketplace/osf-commerce",
+		"desc": "OSF Commerce helps retailers manage their whole ecommerce ecosystem, and meet international and omnichannel objectives.",
+		"logo": "//www.demandware.com/uploads/partners/OSF_Commerce_Logo_LINK.png",
+		"level" : "premier",
+		"service_type" : ["services","solution","technology"],
+		"partner_type" : ["service", "technology"],
+		"categories" :  [72,7,6,11,31,32,33,34,147,149,150,152,154,155,156,158,236,237,284],
+		"category_names" : ["Services","Solution","Technology","Premier","North America","Europe","Asia Pacific","Global","24x7 Solution Support","Commerce Strategy","Digital Marketing Strategy","Implementation/Integration/Delivery","In-Store/POS Integration","LINK Cartridge Development","Optimization","Shop Management/Merchandizing","Delivery Certified","Support Certified","LINK Joint Customer"]
+	},{
+		"title": "OSF Customer BEHAVIOR TRACKER",
+		"page_uri": "/link-marketplace/osf-customer-behavior-tracker",
+		"desc": "Google Tag Manager integration with Salesforce Commerce Cloud by OSF Commerce. Comes with OOTB GA behavioral triggers",
+		"logo": "//www.demandware.com/uploads/partners/Customer_BEHAVIOR_TRACKER_Logo_LINK.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,17,111,31,32,33,34,284],
+		"category_names" : ["Technology","Analytics","Tag Management","North America","Europe","Asia Pacific","Global","LINK Joint Customer"]
+	},{
+		"title": "OSF Integrator for CANADA POST",
+		"page_uri": "/link-marketplace/osf-integrator-for-demandware-and-canada-post",
+		"desc": "Introduce worldwide shipping services coverage in your online store",
+		"logo": "//www.demandware.com/uploads/partners/OSF_Integrator_for_CANADA_POST_Logo_LINK.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,97,98,31,32,33,34],
+		"category_names" : ["Technology","Cross-Border Fulfillment","Gift and Promotional Programs","North America","Europe","Asia Pacific","Global"]
+	},{
+		"title": "OSF One Page CHECKOUT",
+		"page_uri": "/link-marketplace/osf-one-page-checkout",
+		"desc": "OSF One Page CHECKOUT consolidates all checkout steps in accordion style single page and offers guest checkout option",
+		"logo": "//www.demandware.com/uploads/partners/One_Page_CHECKOUT_Logo_LINK.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,230,108,31,32,33,34,284],
+		"category_names" : ["Technology","Online Checkout","Shopping Cart Abandonment","North America","Europe","Asia Pacific","Global","LINK Joint Customer"]
+	},{
+		"title": "OSF UnifyCOMMERCE",
+		"page_uri": "/link-marketplace/osf-unifycommerce",
+		"desc": "OSF UnifyCOMMERCE: 2016 Partner Innovation in Retail. Connects Commerce Cloud with Sales, Service and Community Clouds",
+		"logo": "//www.demandware.com/uploads/partners/OSF_UnifyCOMMERCE_Logo_LINK.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,229,233,31,32,33,34,284],
+		"category_names" : ["Technology","Customer Relationship Management","Post-Purchase","North America","Europe","Asia Pacific","Global","LINK Joint Customer"]
+	},{
+		"title": "Partner Tech USA",
+		"page_uri": "/link-marketplace/partner-tech-usa",
+		"desc": "Leading global Retail IT Solutions provider with over 27 years of innovative experience including Hardware and Services.",
+		"logo": "//www.demandware.com/uploads/partners/Logo_Partner_Web.jpg",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,36,203,31,32,33,34],
+		"category_names" : ["Technology","Mobile","POS","North America","Europe","Asia Pacific","Global"]
+	},{
+		"title": "payolution",
+		"page_uri": "/link-marketplace/payolution",
+		"desc": "payolution provides pay later solutions for online shops in the D-A-CH region, the Netherlands and the United Kingdom. ",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_payolution_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,25,101,32,284],
+		"category_names" : ["Technology","Fraud","Payment","Europe","LINK Joint Customer"]
+	},{
+		"title": "PAYONE",
+		"page_uri": "/link-marketplace/payone",
+		"desc": "PAYONE offers solutions (SaaS) for fully automated and comprehensive handling of all payments in e-commerce.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Payone_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,101,32,284],
+		"category_names" : ["Technology","Payment","Europe","LINK Joint Customer"]
+	},{
+		"title": "PayPal",
+		"page_uri": "/link-marketplace/paypal",
+		"desc": "We take care of payments, so you can run your business.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_PayPal_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,101,31,32,33,34,284],
+		"category_names" : ["Technology","Payment","North America","Europe","Asia Pacific","Global","LINK Joint Customer"]
+	},{
+		"title": "Pennies Foundation",
+		"page_uri": "/link-marketplace/the-pennies-foundation",
+		"desc": "Pennies, the digital charity box, enables your customers to donate a few pence when making a purchase on your site",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Pennies_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,98,108,32],
+		"category_names" : ["Technology","Gift and Promotional Programs","Shopping Cart Abandonment","Europe"]
+	},{
+		"title": "Performance Horizon",
+		"page_uri": "/link-marketplace/performance-horizon",
+		"desc": "Leader in partner marketing technology, enabling companies to drive sales through marketing partners and affiliates.",
+		"logo": "//www.demandware.com/uploads/partners/Logo_PerformanceSocial_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,95,35,31,32,33,34],
+		"category_names" : ["Technology","Advertising","Marketing","North America","Europe","Asia Pacific","Global"]
+	},{
+		"title": "PerimeterX",
+		"page_uri": "/link-marketplace/perimeterx",
+		"desc": "PerimeterX Bot Defender prevents automated attacks by detecting and protecting against malicious web behavior.",
+		"logo": "//www.demandware.com/uploads/partners/Logo_Perimeterx_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,17,107,31,32],
+		"category_names" : ["Technology","Analytics","Security","North America","Europe"]
+	},{
+		"title": "PFS",
+		"page_uri": "/link-marketplace/pfsweb",
+		"desc": "PFS is a global commerce service provider. We deliver digital strategy consulting, and digital agency, marketing, technology development, omnichannel and business process outsourcing services.",
+		"logo": "//www.demandware.com/uploads/partners/Logo_PFSWeb_web.jpg",
+		"level" : "strategic",
+		"service_type" : ["services","solution","end-to-end"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,8,10,31,32,33,34,147,148,149,150,151,152,154,156,157,158,236,283],
+		"category_names" : ["Services","Solution","End to End","Strategic","North America","Europe","Asia Pacific","Global","24x7 Solution Support","Brand Development/Creative","Commerce Strategy","Digital Marketing Strategy","Fulfillment/Logistics/Warehousing","Implementation/Integration/Delivery","In-Store/POS Integration","Optimization","Retail Transformation","Shop Management/Merchandizing","Delivery Certified","LINK Joint Customer"]
+	},{
+		"title": "Photon Interactive",
+		"page_uri": "/link-marketplace/photon-interactive",
+		"desc": "Photon Interactive is the world's largest and fastest growing provider of omni-channel and digital experiences.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Photon_webv2.png",
+		"level" : "",
+		"service_type" : ["services","affiliate"],
+		"partner_type" : ["service"],
+		"categories" :  [72,9,31,32,33,34,148,149,150,154,156],
+		"category_names" : ["Services","Affiliate","North America","Europe","Asia Pacific","Global","Brand Development/Creative","Commerce Strategy","Digital Marketing Strategy","In-Store/POS Integration","Optimization"]
+	},{
+		"title": "Pinterest",
+		"page_uri": "/link-marketplace/pinterest",
+		"desc": "Buyable Pins. Let people buy your products right from Pinterest!",
+		"logo": "//www.demandware.com/uploads/partners/Pinterest_LOGO_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,35,202,36,109,31],
+		"category_names" : ["Technology","Marketing","Marketplaces","Mobile","Social","North America"]
+	},{
+		"title": "Pitney Bowes",
+		"page_uri": "/link-marketplace/pitney-bowes",
+		"desc": "Pitney Bowes' Commerce Cloud-certified LINK cartridge easily connects your ecommerce site to our global solution.",
+		"logo": "//www.demandware.com/uploads/partners/Logo_PitneyBowes_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,97,25,31,32,33,34,284],
+		"category_names" : ["Technology","Cross-Border Fulfillment","Fraud","North America","Europe","Asia Pacific","Global","LINK Joint Customer"]
+	},{
+		"title": "PixelMEDIA_E",
+		"page_uri": "/link-marketplace/pixelmedia",
+		"desc": "PixelMEDIA works with lifestyle brands to help launch, manage and grow their eCommerce channel. Founded in 1994 Pixel has been working with Salesforce Commerce Cloud for more than a decade.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_PixelMedia_Web.png",
+		"level" : "premier",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,11,31,32,33,34,147,148,149,150,152,154,155,156,158,236,283],
+		"category_names" : ["Services","Solution","Premier","North America","Europe","Asia Pacific","Global","24x7 Solution Support","Brand Development/Creative","Commerce Strategy","Digital Marketing Strategy","Implementation/Integration/Delivery","In-Store/POS Integration","LINK Cartridge Development","Optimization","Shop Management/Merchandizing","Delivery Certified","LINK Joint Customer"]
+	},{
+		"title": "Pixlee_E",
+		"page_uri": "/link-marketplace/pixlee",
+		"desc": "Pixlee is a social commerce platform that helps brands collect, curate, and display customer photos from social media on their website to enhance the performance of their Commerce Cloud store. ",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Pixlee_web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,102,104,31,284],
+		"category_names" : ["Technology","Personalization","Ratings and Reviews","North America","LINK Joint Customer"]
+	},{
+		"title": "Plaid, Inc.",
+		"page_uri": "/link-marketplace/plaid-inc",
+		"desc": "Plaid, Inc. offers KARTE, a marketing service that enables analysis and interaction for individual web accesses.   ",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Plaid_Web.png",
+		"level" : "",
+		"service_type" : ["services","affiliate"],
+		"partner_type" : ["service"],
+		"categories" :  [72,9,33,149,150],
+		"category_names" : ["Services","Affiliate","Asia Pacific","Commerce Strategy","Digital Marketing Strategy"]
+	},{
+		"title": "PlumSlice_E",
+		"page_uri": "/link-marketplace/plumslice",
+		"desc": "Access, work, and collaborate from anywhere, at any time, on any device. ",
+		"logo": "//www.demandware.com/uploads/partners/Plumslice_Logo_257.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,36,103,31,284],
+		"category_names" : ["Technology","Mobile","Product Information Management","North America","LINK Joint Customer"]
+	},{
+		"title": "PowerReviews_E",
+		"page_uri": "/link-marketplace/powerreviews",
+		"desc": "PowerReviews delivers ratings and review software used by more than 1,000 brands and retailers to drive traffic, increase sales, and create actionable insights. We make getting more reviews easy.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_PowerReviews_web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,99,104,31,32,284],
+		"category_names" : ["Technology","Loyalty","Ratings and Reviews","North America","Europe","LINK Joint Customer"]
+	},{
+		"title": "PredictSpring",
+		"page_uri": "/link-marketplace/predictspring-closed",
+		"desc": "The Fastest Mobile Commerce Platform",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_PredictSpring_web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,35,36,31,284],
+		"category_names" : ["Technology","Marketing","Mobile","North America","LINK Joint Customer"]
+	},{
+		"title": "Prolific Interactive",
+		"page_uri": "/link-marketplace/prolific-interactive",
+		"desc": "Prolific Interactive is a strategy led agency that designs and develops native apps (iOS and Android).",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Prolific_Interactive_Web.png",
+		"level" : "",
+		"service_type" : ["services","affiliate"],
+		"partner_type" : ["service"],
+		"categories" :  [72,9,31,149,156,157],
+		"category_names" : ["Services","Affiliate","North America","Commerce Strategy","Optimization","Retail Transformation"]
+	},{
+		"title": "PulsarFour",
+		"page_uri": "/link-marketplace/pulsarfour",
+		"desc": "We are a Digital Commerce Agency serving US and European enterprise level online retailers. We design, build, integrate, and support end-to-end scalable ecommerce solutions.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Pulsar4_Web.png",
+		"level" : "business",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,12,148,149,150,152,154,156],
+		"category_names" : ["Services","Solution","Business","Brand Development/Creative","Commerce Strategy","Digital Marketing Strategy","Implementation/Integration/Delivery","In-Store/POS Integration","Optimization"]
+	},{
+		"title": "PwC",
+		"page_uri": "/link-marketplace/pwc",
+		"desc": "Technology is an important enabler of business transformation. To assist you in getting value from technology investments, we bring together the skills to deliver improvements in processes.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_PWC_Web.png",
+		"level" : "business",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,12,31,32,33,34,147,148,149,150,152,154,156,158],
+		"category_names" : ["Services","Solution","Business","North America","Europe","Asia Pacific","Global","24x7 Solution Support","Brand Development/Creative","Commerce Strategy","Digital Marketing Strategy","Implementation/Integration/Delivery","In-Store/POS Integration","Optimization","Shop Management/Merchandizing"]
+	},{
+		"title": "Quable",
+		"page_uri": "/link-marketplace/quable",
+		"desc": "Quable develops best-of-breed Product Information Management (PIM) and Digital Asset Management (DAM) technologies.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Quable_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,103,32,284],
+		"category_names" : ["Technology","Product Information Management","Europe","LINK Joint Customer"]
+	},{
+		"title": "Quantum Metric",
+		"page_uri": "/link-marketplace/quantum-metric",
+		"desc": "Quantum Metric is a Customer Experience Analytics platform with web session replay identifying customer struggle.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_QM_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,17,108,31],
+		"category_names" : ["Technology","Analytics","Shopping Cart Abandonment","North America"]
+	},{
+		"title": "Radial",
+		"page_uri": "/link-marketplace/radial",
+		"desc": "Radial is the leader in omnichannel commerce technology and operations, enabling brands to exceed customer expectations. ",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Radial_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,97,25,100,101,31,32,33,34,284],
+		"category_names" : ["Technology","Cross-Border Fulfillment","Fraud","Order Management","Payment","North America","Europe","Asia Pacific","Global","LINK Joint Customer"]
+	},{
+		"title": "Radius8, Inc.",
+		"page_uri": "/link-marketplace/radius8-inc",
+		"desc": "Powering online merchandising with physical store data and local signals to drive more foot traffic and conversion. ",
+		"logo": "//www.demandware.com/uploads/partners/Logo_Radius8_Web.jpg",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,17,238,31],
+		"category_names" : ["Technology","Analytics","Store Locator","North America"]
+	},{
+		"title": "RANDEM",
+		"page_uri": "/link-marketplace/randem",
+		"desc": "We\u2019re passionate about making every digital experience engaging and efficient. We integrate ourselves \u2014 and our solutions \u2014 into our customers\u2019 business to foster collaboration and support growth.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Randem_Web.png",
+		"level" : "business",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,12,33,147,149,150,152,155,158],
+		"category_names" : ["Services","Solution","Business","Asia Pacific","24x7 Solution Support","Commerce Strategy","Digital Marketing Strategy","Implementation/Integration/Delivery","LINK Cartridge Development","Shop Management/Merchandizing"]
+	},{
+		"title": "RCI Global Services Ltd",
+		"page_uri": "/link-marketplace/rci-global-services-ltd",
+		"desc": "RCI Global Services is an Omnichannel Consultant and Technology Integrator specialized on providing end-to-end Salesforce Cloud Commerce, Order Management System (OMS) and Point of Sales (POS)",
+		"logo": "//www.demandware.com/uploads/partners/fullsizeoutput_1.jpeg",
+		"level" : "business",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,12,33,147,149,151,152,154,155,158],
+		"category_names" : ["Services","Solution","Business","Asia Pacific","24x7 Solution Support","Commerce Strategy","Fulfillment/Logistics/Warehousing","Implementation/Integration/Delivery","In-Store/POS Integration","LINK Cartridge Development","Shop Management/Merchandizing"]
+	},{
+		"title": "reachfive",
+		"page_uri": "/link-marketplace/reachfive",
+		"desc": "reach five simplifies Social Login integration on all devices and collects accurate customer data to enable personalization",
+		"logo": "//www.demandware.com/uploads/partners/Logo_reachfive_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,35,109,32,284],
+		"category_names" : ["Technology","Marketing","Social","Europe","LINK Joint Customer"]
+	},{
+		"title": "Red Van Workshop_E",
+		"page_uri": "/link-marketplace/red-van-workshop",
+		"desc": "The Red Van Workshop specializes in complex, multi-lingual, multi-national, multi-brand ecommerce systems design, integrations, development direction, development and deliveries. ",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Red_Van_web.png",
+		"level" : "business",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,12,31,149,152,154,155,156,158],
+		"category_names" : ["Services","Solution","Business","North America","Commerce Strategy","Implementation/Integration/Delivery","In-Store/POS Integration","LINK Cartridge Development","Optimization","Shop Management/Merchandizing"]
+	},{
+		"title": "Retain.me",
+		"page_uri": "/link-marketplace/retainme",
+		"desc": "Customer Retention: Delivered. Personalized Customer Experience at the point of Delivery with bespoke marketing content.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_RetainMe_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,35,102,32],
+		"category_names" : ["Technology","Marketing","Personalization","Europe"]
+	},{
+		"title": "Returnly",
+		"page_uri": "/link-marketplace/returnly",
+		"desc": "Instant Refunds, Easy Online Product Returns, Analytics: post-purchase behavior + complete returns data, RMA management.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Returnly_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,99,233,31,284],
+		"category_names" : ["Technology","Loyalty","Post-Purchase","North America","LINK Joint Customer"]
+	},{
+		"title": "REV Solutions",
+		"page_uri": "/link-marketplace/rev-solutions",
+		"desc": "REV Solutions, a PFSweb Company, is a leading eCommerce development company providing eCommerce development, managed support, and global systems integration.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Rev_webv2.png",
+		"level" : "premier",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,11,31,147,149,152,155,157],
+		"category_names" : ["Services","Solution","Premier","North America","24x7 Solution Support","Commerce Strategy","Implementation/Integration/Delivery","LINK Cartridge Development","Retail Transformation"]
+	},{
+		"title": "Riskified_E",
+		"page_uri": "/link-marketplace/riskified",
+		"desc": "Riskified is a risk management solution that provides peace-of-mind to Commerce Cloud merchants by verifying, approving and guaranteeing orders. All approved orders carry a 100% chargeback guarantee.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Riskified_webv2.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,25,107,31,32,33,34,284],
+		"category_names" : ["Technology","Fraud","Security","North America","Europe","Asia Pacific","Global","LINK Joint Customer"]
+	},{
+		"title": "Riversand Technologies",
+		"page_uri": "/link-marketplace/riversand-technologies",
+		"desc": "Riversand is a multi-domain Master Data Management solution provider covering Product, Vendor, Customer, Asset & others.",
+		"logo": "//www.demandware.com/uploads/partners/Logo_Riversand_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,21,103,31,33,284],
+		"category_names" : ["Technology","Content Management Systems","Product Information Management","North America","Asia Pacific","LINK Joint Customer"]
+	},{
+		"title": "Ruby Groupe",
+		"page_uri": "/link-marketplace/ruby-groupe",
+		"desc": "RUBY GROUPe offers full service, one-stop ecommerce solutions and services in Japan. RUBY's clients include Kate Spade, Marc Jacobs, Max Mara, Cole Haan, and more. ",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Ruby_Groupe_web.png",
+		"level" : "business",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,12,33,147,149,150,151,152,154,155,156,283],
+		"category_names" : ["Services","Solution","Business","Asia Pacific","24x7 Solution Support","Commerce Strategy","Digital Marketing Strategy","Fulfillment/Logistics/Warehousing","Implementation/Integration/Delivery","In-Store/POS Integration","LINK Cartridge Development","Optimization","LINK Joint Customer"]
+	},{
+		"title": "Sailthru_E",
+		"page_uri": "/link-marketplace/sailthru",
+		"desc": "Sailthru is the only single platform that combines omnichannel data collection, automated personalization and predictive intelligence to optimize customer lifetime value. ",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Sailthru_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,24,102,31,32,33,34,284],
+		"category_names" : ["Technology","Email Marketing","Personalization","North America","Europe","Asia Pacific","Global","LINK Joint Customer"]
+	},{
+		"title": "Sandbox",
+		"page_uri": "/link-marketplace/sandbox",
+		"desc": "Sandbox Studio is a market-leading digital content resource for top tier apparel, accessories and domestics brands.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Sandbox1_Web.png",
+		"level" : "",
+		"service_type" : ["services","affiliate"],
+		"partner_type" : ["service"],
+		"categories" :  [72,9,31,148,150],
+		"category_names" : ["Services","Affiliate","North America","Brand Development/Creative","Digital Marketing Strategy"]
+	},{
+		"title": "SapientNitro",
+		"page_uri": "/link-marketplace/sapientnitro",
+		"desc": "SapientNitro\u2120 is a new breed of agency redefining storytelling for an always-on world.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Sapient_webv2.png",
+		"level" : "global",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,210,31,32,33,34,147,148,149,150,152,155,156,157,236,283],
+		"category_names" : ["Services","Solution","Global Innovation Partner","North America","Europe","Asia Pacific","Global","24x7 Solution Support","Brand Development/Creative","Commerce Strategy","Digital Marketing Strategy","Implementation/Integration/Delivery","LINK Cartridge Development","Optimization","Retail Transformation","Delivery Certified","LINK Joint Customer"]
+	},{
+		"title": "Selligent",
+		"page_uri": "/link-marketplace/selligent",
+		"desc": "Selligent is a global audience engagement provider powering omnichannel programs for over 450 leading brands.  Email, web, social, mobile, and customer care support at a competitive price point.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Selligent_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,24,35,31,32,33,34,284],
+		"category_names" : ["Technology","Email Marketing","Marketing","North America","Europe","Asia Pacific","Global","LINK Joint Customer"]
+	},{
+		"title": "SessionM",
+		"page_uri": "/link-marketplace/sessionm",
+		"desc": "SessionM is a loyalty marketing automation platform empowering brands to forge more profitable consumer relationships.",
+		"logo": "//www.demandware.com/uploads/partners/Logo_Sessionm_Web.jpg",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,99,102,31,32],
+		"category_names" : ["Technology","Loyalty","Personalization","North America","Europe"]
+	},{
+		"title": "Shopgate",
+		"page_uri": "/link-marketplace/shopgate",
+		"desc": "Shopgate offers everything retailers need to lift customer retention and mobile sales through native apps. ",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Shopgate_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,35,36,31,32,284],
+		"category_names" : ["Technology","Marketing","Mobile","North America","Europe","LINK Joint Customer"]
+	},{
+		"title": "Signifyd",
+		"page_uri": "/link-marketplace/signifyd",
+		"desc": "Signifyd provides fraud protection for e-commerce companies. Automate your back office, and never pay a chargeback again",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Signifyd_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,25,100,31,284],
+		"category_names" : ["Technology","Fraud","Order Management","North America","LINK Joint Customer"]
+	},{
+		"title": "SinnerSchrader (Deutschland) GmbH",
+		"page_uri": "/link-marketplace/sinnerschrader-deutschland-gmbh",
+		"desc": "eCommerce specialist SinnerSchrader is a top 10 digital agency in Europe.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Sinner_webv2.png",
+		"level" : "business",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,12,32,147,148,149,150,152,156],
+		"category_names" : ["Services","Solution","Business","Europe","24x7 Solution Support","Brand Development/Creative","Commerce Strategy","Digital Marketing Strategy","Implementation/Integration/Delivery","Optimization"]
+	},{
+		"title": "Smart ORDER REFILL",
+		"page_uri": "/link-marketplace/smart-order-refill",
+		"desc": "OSF Order Replenishment Cartridge. Optimize stock levels, ensure recurring revenue and increase customer retention rate.",
+		"logo": "//www.demandware.com/uploads/partners/Smart_ORDER_REFILL_Logo_LINK.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,228,100,31,32,33,34],
+		"category_names" : ["Technology","Continuity & Replenishment","Order Management","North America","Europe","Asia Pacific","Global"]
+	},{
+		"title": "SMARTASSISTANT_E",
+		"page_uri": "/link-marketplace/smartassistant",
+		"desc": "SMARTASSISTANT is the leading, cloud-based Guided Selling technology  to create interactive, omnichannel-ready product advisors and product finders that help shoppers choose the most suitable product.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_SmartAssistant_Web2.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,102,106],
+		"category_names" : ["Technology","Personalization","Search"]
+	},{
+		"title": "Smartling_E",
+		"page_uri": "/link-marketplace/smartling",
+		"desc": "Smartling consolidates the many moving parts of translation into a single cloud-based translation management platform for ultimate efficiency and accuracy.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Smartling_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,114,31,32,33,34],
+		"category_names" : ["Technology","Translations","North America","Europe","Asia Pacific","Global"]
+	},{
+		"title": "Smile.io",
+		"page_uri": "/link-marketplace/smile-io",
+		"desc": "Smile.io powers reward programs for 15,000 merchants. Use Smile.io to reward customers for profitable actions.",
+		"logo": "//www.demandware.com/uploads/partners/Logo_Smile_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,229,99,31],
+		"category_names" : ["Technology","Customer Relationship Management","Loyalty","North America"]
+	},{
+		"title": "Softfobia",
+		"page_uri": "/link-marketplace/softfobia",
+		"desc": "Softfobia is an Internet Business company ",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Softfobia_Web.png",
+		"level" : "business",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,12,32,147,148,149,150,152,156,158],
+		"category_names" : ["Services","Solution","Business","Europe","24x7 Solution Support","Brand Development/Creative","Commerce Strategy","Digital Marketing Strategy","Implementation/Integration/Delivery","Optimization","Shop Management/Merchandizing"]
+	},{
+		"title": "Sony Payment Services Inc.",
+		"page_uri": "/link-marketplace/sony-payment-services-inc",
+		"desc": "Sony Payment Services offers a secure, smooth and reliable gateway service for various payment processing needs. ",
+		"logo": "//www.demandware.com/uploads/partners/Logo_Sony_Web.jpg",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,101,33],
+		"category_names" : ["Technology","Payment","Asia Pacific"]
+	},{
+		"title": "Sovos Compliance, LLC",
+		"page_uri": "/link-marketplace/sovos-compliance-llc",
+		"desc": "Sovos\u2019 Sales Tax enables accurate real time calculation with superior performance for the most complex tax scenarios.",
+		"logo": "//www.demandware.com/uploads/partners/Logo_Sovos_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,112,31,32],
+		"category_names" : ["Technology","Tax","North America","Europe"]
+	},{
+		"title": "SP eCommerce",
+		"page_uri": "/link-marketplace/singpost-ecommerce",
+		"desc": "SP eCommerce, via their full service model, enables global brands and retailers to easily roll out scalable and efficient eCommerce operations in Asia Pacific.  ",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_SP_webv2.png",
+		"level" : "business",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,12,33,147,149,150,151,152,154,155,156,158],
+		"category_names" : ["Services","Solution","Business","Asia Pacific","24x7 Solution Support","Commerce Strategy","Digital Marketing Strategy","Fulfillment/Logistics/Warehousing","Implementation/Integration/Delivery","In-Store/POS Integration","LINK Cartridge Development","Optimization","Shop Management/Merchandizing"]
+	},{
+		"title": "SQLI",
+		"page_uri": "/link-marketplace/sqli",
+		"desc": "SQLI, leader of the connected experience develops the best uses in e-commerce:  Boost sales with effective, multi-device and omni-channel systems . Develop new levers to drive growth",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_SQLI_Web.png",
+		"level" : "business",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,12,32,148,149,150,152,156],
+		"category_names" : ["Services","Solution","Business","Europe","Brand Development/Creative","Commerce Strategy","Digital Marketing Strategy","Implementation/Integration/Delivery","Optimization"]
+	},{
+		"title": "Square Reply",
+		"page_uri": "/link-marketplace/square-reply",
+		"desc": "Part of the Reply Group, Square  Reply is focused on Retail Market, specialized in design, implementation and delivery of solutions related to Digital Multichannel Sales and Digital Content Strategy.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Square_Repl_Web.png",
+		"level" : "business",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,12,31,32,33,34,147,148,149,150,151,152,154,156,158],
+		"category_names" : ["Services","Solution","Business","North America","Europe","Asia Pacific","Global","24x7 Solution Support","Brand Development/Creative","Commerce Strategy","Digital Marketing Strategy","Fulfillment/Logistics/Warehousing","Implementation/Integration/Delivery","In-Store/POS Integration","Optimization","Shop Management/Merchandizing"]
+	},{
+		"title": "Star Republic",
+		"page_uri": "/link-marketplace/star-republic",
+		"desc": "Star Republic is an e-commerce consultancy company based out of Sweden. Clients include Carlsberg, L'Or\u00e9al and Kappahl to name a few. ",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Star_Republic_WEB.png",
+		"level" : "business",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,12,32,147,148,149,150,152,155,156,158],
+		"category_names" : ["Services","Solution","Business","Europe","24x7 Solution Support","Brand Development/Creative","Commerce Strategy","Digital Marketing Strategy","Implementation/Integration/Delivery","LINK Cartridge Development","Optimization","Shop Management/Merchandizing"]
+	},{
+		"title": "Stripe",
+		"page_uri": "/link-marketplace/stripe",
+		"desc": "Stripe builds the most powerful and flexible tools for internet commerce.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Stripe_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,25,101,31,32,33,34,284],
+		"category_names" : ["Technology","Fraud","Payment","North America","Europe","Asia Pacific","Global","LINK Joint Customer"]
+	},{
+		"title": "Studio 60",
+		"page_uri": "/link-marketplace/studio-60",
+		"desc": "Studio 60 is a digital and mobile platform commerce specialist. From global brands to well-funded startups, we create and influence smart projects that change the way people interact with technology.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_S60_Web.png",
+		"level" : "business",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,12,33,34,147,148,149,150,152,155,156,157],
+		"category_names" : ["Services","Solution","Business","Asia Pacific","Global","24x7 Solution Support","Brand Development/Creative","Commerce Strategy","Digital Marketing Strategy","Implementation/Integration/Delivery","LINK Cartridge Development","Optimization","Retail Transformation"]
+	},{
+		"title": "Styla",
+		"page_uri": "/link-marketplace/styla",
+		"desc": "Styla is a content commerce suite that automatically designs content and makes it shoppable.",
+		"logo": "//www.demandware.com/uploads/partners/Logo_Styla_Web.jpg",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,21,35,32,284],
+		"category_names" : ["Technology","Content Management Systems","Marketing","Europe","LINK Joint Customer"]
+	},{
+		"title": "Sutrix Group Limited",
+		"page_uri": "/link-marketplace/sutrix-group-limited",
+		"desc": "Sutrix Group offers the end-to-end capability to design and develop global digital platforms and provide ongoing support and maintenance services.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_SutrixGroup_Web.png",
+		"level" : "business",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,12,32,33,147,149,150,152,156,158],
+		"category_names" : ["Services","Solution","Business","Europe","Asia Pacific","24x7 Solution Support","Commerce Strategy","Digital Marketing Strategy","Implementation/Integration/Delivery","Optimization","Shop Management/Merchandizing"]
+	},{
+		"title": "SwiftWin Inc",
+		"page_uri": "/link-marketplace/swiftwin-inc",
+		"desc": "Passion  with vision towards offering Value Based proposition to retailers to enhance consumers shopping experience.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_SwiftWin_Web.png",
+		"level" : "",
+		"service_type" : ["services","affiliate"],
+		"partner_type" : ["service"],
+		"categories" :  [72,9,148,149,150,151,154,156,158,283],
+		"category_names" : ["Services","Affiliate","Brand Development/Creative","Commerce Strategy","Digital Marketing Strategy","Fulfillment/Logistics/Warehousing","In-Store/POS Integration","Optimization","Shop Management/Merchandizing","LINK Joint Customer"]
+	},{
+		"title": "T-Systems MMS GmbH",
+		"page_uri": "/link-marketplace/t-systems-mms-gmbh",
+		"desc": "With over 15 years ecommerce experience, our trained team of experts forms the basis of your success.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_T-Systems_webv2.png",
+		"level" : "business",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,12,31,32,147,152,156,283],
+		"category_names" : ["Services","Solution","Business","North America","Europe","24x7 Solution Support","Implementation/Integration/Delivery","Optimization","LINK Joint Customer"]
+	},{
+		"title": "TaisTech",
+		"page_uri": "/link-marketplace/taistech",
+		"desc": "Unlock your brand's potential with an expert, innovative, omni-channel solution that will drive sales and your success.  TAISTech is a global digital services company that delivers results. ",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_TaisTech_Web.png",
+		"level" : "business",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,12,31,33,148,149,150,152,156,158],
+		"category_names" : ["Services","Solution","Business","North America","Asia Pacific","Brand Development/Creative","Commerce Strategy","Digital Marketing Strategy","Implementation/Integration/Delivery","Optimization","Shop Management/Merchandizing"]
+	},{
+		"title": "Talkable",
+		"page_uri": "/link-marketplace/talkable",
+		"desc": "A referral marketing platform that allows customers to share offers with friends via email and social share channels. ",
+		"logo": "//www.demandware.com/uploads/partners/talkable-salesforce-257-148.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,98,35,31,32,34],
+		"category_names" : ["Technology","Gift and Promotional Programs","Marketing","North America","Europe","Global"]
+	},{
+		"title": "TAM, Inc",
+		"page_uri": "/link-marketplace/tam-inc",
+		"desc": "Specialized in mobile app, EC and web service development. We also support introducing salesforceCRM and Marketingcloud.",
+		"logo": "//www.demandware.com/uploads/partners/logo_tam_web.png",
+		"level" : "",
+		"service_type" : ["services","affiliate"],
+		"partner_type" : ["service"],
+		"categories" :  [72,9,148,149,150,156,158],
+		"category_names" : ["Services","Affiliate","Brand Development/Creative","Commerce Strategy","Digital Marketing Strategy","Optimization","Shop Management/Merchandizing"]
+	},{
+		"title": "Tealium",
+		"page_uri": "/link-marketplace/tealium",
+		"desc": "Tealium provides organizations with a single approach to connecting customer data across teams, vendors and touchpoints.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Tealium_WebV2.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,111,31,32,33,34,284],
+		"category_names" : ["Technology","Tag Management","North America","Europe","Asia Pacific","Global","LINK Joint Customer"]
+	},{
+		"title": "Tejas",
+		"page_uri": "/link-marketplace/tejas",
+		"desc": "Tejas Software has deep roots in the eCommerce and Order Management ecosphere and helps retailers enable commerce everywhere.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Tejas_webv2.png",
+		"level" : "business",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,12,31,147,152,156],
+		"category_names" : ["Services","Solution","Business","North America","24x7 Solution Support","Implementation/Integration/Delivery","Optimization"]
+	},{
+		"title": "TextMaster",
+		"page_uri": "/link-marketplace/textmaster",
+		"desc": "TextMaster offers professional online translation, combining advanced technology with a network of expert translators.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_TextMaster_Web.png",
+		"level" : "",
+		"service_type" : [],
+		"partner_type" : ["service", "technology"],
+		"categories" :  [114,31,32,34],
+		"category_names" : ["Translations","North America","Europe","Global"]
+	},{
+		"title": "TIS Inc.",
+		"page_uri": "/link-marketplace/tis-inc",
+		"desc": "We provide a company-wide integrated marketing infrastructure that comprehensively manages data collection, analysis and implementation.",
+		"logo": "//www.demandware.com/uploads/partners/fullsizeoutput_40.jpeg",
+		"level" : "business",
+		"service_type" : ["services"],
+		"partner_type" : ["service"],
+		"categories" :  [72,12,149,150,152],
+		"category_names" : ["Services","Business","Commerce Strategy","Digital Marketing Strategy","Implementation/Integration/Delivery"]
+	},{
+		"title": "Touchize",
+		"page_uri": "/link-marketplace/shoplogiq",
+		"desc": "ShopLogiQ TouchFront\u2122 makes mobile e-commerce simpler, faster and tactile. Improving customer experience and conversion.",
+		"logo": "//www.demandware.com/uploads/partners/Logo_touchize_web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,35,36,32],
+		"category_names" : ["Technology","Marketing","Mobile","Europe"]
+	},{
+		"title": "Traction on Demand",
+		"page_uri": "/link-marketplace/traction-on-demand",
+		"desc": "Traction on Demand is a cloud consulting and software development firm with unparalleled expertise in using the Salesforce.com platform to transform business processes. ",
+		"logo": "//www.demandware.com/uploads/partners/Traction_on_Demand_Tile_Logo2345678.png",
+		"level" : "business",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,12,31,152],
+		"category_names" : ["Services","Solution","Business","North America","Implementation/Integration/Delivery"]
+	},{
+		"title": "Tradebyte_E",
+		"page_uri": "/link-marketplace/tradebyte",
+		"desc": "Tradebyte operates an innovative e-commerce ecosystem to connect manufacturers or brands with marketplaces and retailers. Over 2000 integrations have already been carried out in over 15 countries.  ",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Tradebyte_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,202,100,103,32,284],
+		"category_names" : ["Technology","Marketplaces","Order Management","Product Information Management","Europe","LINK Joint Customer"]
+	},{
+		"title": "TradeGlobal Integration",
+		"page_uri": "/link-marketplace/tradeglobal-integration",
+		"desc": "TradeGlobal provides an easily integrated, full service solution for international shipping that manages international transactions and logistics with ease.",
+		"logo": "//www.demandware.com/uploads/partners/Logo_TradeGlobal_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,97,31,32,33,34,284],
+		"category_names" : ["Technology","Cross-Border Fulfillment","North America","Europe","Asia Pacific","Global","LINK Joint Customer"]
+	},{
+		"title": "TradeGlobal_E",
+		"page_uri": "/link-marketplace/tradeglobal",
+		"desc": "TradeGlobal provides global end-to-end ecommerce services, solutions, and systems including development and implementation.",
+		"logo": "//www.demandware.com/uploads/partners/Logo_TradeGlobal_Web.png",
+		"level" : "business",
+		"service_type" : ["services","solution","end-to-end","technology"],
+		"partner_type" : ["service", "technology"],
+		"categories" :  [72,7,8,6,12,31,32,33,34,147,151,152,156,158,283],
+		"category_names" : ["Services","Solution","End to End","Technology","Business","North America","Europe","Asia Pacific","Global","24x7 Solution Support","Fulfillment/Logistics/Warehousing","Implementation/Integration/Delivery","Optimization","Shop Management/Merchandizing","LINK Joint Customer"]
+	},{
+		"title": "Traff1k D1g1tal",
+		"page_uri": "/link-marketplace/traff1k-d1g1tal",
+		"desc": "Traff1k D1g1tal are leaders in digital transformation increasing clients ROI across all digital channels & platforms.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_TraffikDigital_Web.png",
+		"level" : "",
+		"service_type" : ["services","affiliate"],
+		"partner_type" : ["service"],
+		"categories" :  [72,9,33,148,149,150,156],
+		"category_names" : ["Services","Affiliate","Asia Pacific","Brand Development/Creative","Commerce Strategy","Digital Marketing Strategy","Optimization"]
+	},{
+		"title": "TrafficDefender by Intechnica",
+		"page_uri": "/link-marketplace/trafficdefender-by-intechnica",
+		"desc": "A traffic management system to keep your website online no matter how much traffic hits it, with TrafficDefender.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_TrafficDefender_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,107,235,32],
+		"category_names" : ["Technology","Security","Site Monitoring","Europe"]
+	},{
+		"title": "Translations.com_E",
+		"page_uri": "/link-marketplace/translationscom",
+		"desc": "Translations.com is the world's leading provider of localization services and technology to the retail\/ecommerce industry",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Translations.com_WebV2.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,202,36,109,114,31,32,33,34,284],
+		"category_names" : ["Technology","Marketplaces","Mobile","Social","Translations","North America","Europe","Asia Pacific","Global","LINK Joint Customer"]
+	},{
+		"title": "True Fit_E",
+		"page_uri": "/link-marketplace/true-fit",
+		"desc": "We help shoppers find apparel and footwear they love and keep: 1:1 personalization with size and fit recommendations.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_TrueFit_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,102,31,32,284],
+		"category_names" : ["Technology","Personalization","North America","Europe","LINK Joint Customer"]
+	},{
+		"title": "Trusted Shops GmbH",
+		"page_uri": "/link-marketplace/trusted-shops-gmbh",
+		"desc": "Collect and analyse customer reviews. Boost conversion and enhance business intelligence  with Trusted Shops.",
+		"logo": "//www.demandware.com/uploads/partners/Logo_TrustedShops_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,104],
+		"category_names" : ["Technology","Ratings and Reviews"]
+	},{
+		"title": "Tryzens_E",
+		"page_uri": "/link-marketplace/tryzens",
+		"desc": "Tryzens are eCommerce experts, our aim is to transfer the science and skills of selling online to our clients by increasing revenue and reducing costs through efficient & effective retail solutions",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Tryzens_webv3.png",
+		"level" : "premier",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,11,32,33,147,148,149,152,154,155,156,236,237,283],
+		"category_names" : ["Services","Solution","Premier","Europe","Asia Pacific","24x7 Solution Support","Brand Development/Creative","Commerce Strategy","Implementation/Integration/Delivery","In-Store/POS Integration","LINK Cartridge Development","Optimization","Delivery Certified","Support Certified","LINK Joint Customer"]
+	},{
+		"title": "TurnTo_E",
+		"page_uri": "/link-marketplace/turnto",
+		"desc": "TurnTo provides a suite of customer content tools for retailers, including Ratings & Reviews, Community Q&A, and more.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_TurnTo_web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,104,109,31,284],
+		"category_names" : ["Technology","Ratings and Reviews","Social","North America","LINK Joint Customer"]
+	},{
+		"title": "UPS i-Parcel",
+		"page_uri": "/link-marketplace/ups-i-parcel",
+		"desc": "UPS i-parcel provides affordable, scalable logistics and technology solutions to globalize online shopping.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_iParcel_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,97,101,31,284],
+		"category_names" : ["Technology","Cross-Border Fulfillment","Payment","North America","LINK Joint Customer"]
+	},{
+		"title": "Valtech GmbH_E",
+		"page_uri": "/link-marketplace/valtech-gmbh",
+		"desc": "Valtech is a new breed of digital marketing and technology agency with a presence in 8 countries.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Valtech_webv2.png",
+		"level" : "business",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,12,31,32,33,34,147,152,156],
+		"category_names" : ["Services","Solution","Business","North America","Europe","Asia Pacific","Global","24x7 Solution Support","Implementation/Integration/Delivery","Optimization"]
+	},{
+		"title": "Vantiv_E",
+		"page_uri": "/link-marketplace/vantiv",
+		"desc": "The Vantiv\/Salesforce Commerce Cloud integration will give eCommerce merchants access to best-in-class payments processing.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Vantiv_WebV2.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,101,31,284],
+		"category_names" : ["Technology","Payment","North America","LINK Joint Customer"]
+	},{
+		"title": "Verified Reviews",
+		"page_uri": "/link-marketplace/verified-reviews",
+		"desc": "Collect your reviews to gain more visibility and credibility and create a loyal relationship with your customers",
+		"logo": "//www.demandware.com/uploads/partners/Logo_VerifiedReviews_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,229,104,31,32,33,34,284],
+		"category_names" : ["Technology","Customer Relationship Management","Ratings and Reviews","North America","Europe","Asia Pacific","Global","LINK Joint Customer"]
+	},{
+		"title": "Veritrans",
+		"page_uri": "/link-marketplace/veritrans",
+		"desc": "VeriTrans is a leading provider of online payment services and e-commerce solutions with trusted and well recognized brand names in Japan.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Veritrans_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,101,33,284],
+		"category_names" : ["Technology","Payment","Asia Pacific","LINK Joint Customer"]
+	},{
+		"title": "Visa_E",
+		"page_uri": "/link-marketplace/visa",
+		"desc": "Consumers and merchants alike trust the Visa brand and the power and reliability of VisaNet.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Visa_WebV2.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,101,31,32,33,34,284],
+		"category_names" : ["Technology","Payment","North America","Europe","Asia Pacific","Global","LINK Joint Customer"]
+	},{
+		"title": "Viseo",
+		"page_uri": "/link-marketplace/viseo",
+		"desc": "With strong expertise in digital, system integration and data, VISEO is your ideal partner to bring forward new ideas, offers and help you identify better producing and selling strategies",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Viseo_Web.png",
+		"level" : "business",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,12,31,32,33,147,148,149,150,152,154,156,157,158],
+		"category_names" : ["Services","Solution","Business","North America","Europe","Asia Pacific","24x7 Solution Support","Brand Development/Creative","Commerce Strategy","Digital Marketing Strategy","Implementation/Integration/Delivery","In-Store/POS Integration","Optimization","Retail Transformation","Shop Management/Merchandizing"]
+	},{
+		"title": "Visionet Systems, Inc.",
+		"page_uri": "/link-marketplace/visionet-systems-inc",
+		"desc": "Visionet specializes in delivering technology solutions in the area of ecommerce, ERP, CRM, and BI.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Visionet_webv2.png",
+		"level" : "business",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,12,31,32,147,152,156,283],
+		"category_names" : ["Services","Solution","Business","North America","Europe","24x7 Solution Support","Implementation/Integration/Delivery","Optimization","LINK Joint Customer"]
+	},{
+		"title": "We Do Commerce_E",
+		"page_uri": "/link-marketplace/we-do-commerce",
+		"desc": "We Do Commerce - providing award-winning strategy, design and implementations to Salesforce Commerce Cloud merchants since 2006.",
+		"logo": "//www.demandware.com/uploads/partners/Logo_WeDoCommerce_Web.png",
+		"level" : "business",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,12,31,147,152,155,156,236,237,283],
+		"category_names" : ["Services","Solution","Business","North America","24x7 Solution Support","Implementation/Integration/Delivery","LINK Cartridge Development","Optimization","Delivery Certified","Support Certified","LINK Joint Customer"]
+	},{
+		"title": "Westum_E",
+		"page_uri": "/link-marketplace/westum",
+		"desc": "Design, build and support ecommerce solutions for growth.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_westum_webv2.png",
+		"level" : "business",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,12,31,32,147,152,156,237,283],
+		"category_names" : ["Services","Solution","Business","North America","Europe","24x7 Solution Support","Implementation/Integration/Delivery","Optimization","Support Certified","LINK Joint Customer"]
+	},{
+		"title": "Williams Commerce",
+		"page_uri": "/link-marketplace/williams-commerce",
+		"desc": "Williams Commerce help customers build multi million dollar businesses online through full service ecommerce services.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_WilliamsCommerce_Web.png",
+		"level" : "",
+		"service_type" : ["services","affiliate"],
+		"partner_type" : ["service"],
+		"categories" :  [72,9,32,33,148,149,150,151,154,156,158],
+		"category_names" : ["Services","Affiliate","Europe","Asia Pacific","Brand Development/Creative","Commerce Strategy","Digital Marketing Strategy","Fulfillment/Logistics/Warehousing","In-Store/POS Integration","Optimization","Shop Management/Merchandizing"]
+	},{
+		"title": "Windsor Circle",
+		"page_uri": "/link-marketplace/windsor-circle",
+		"desc": "Windsor Circle's Predictive Marketing platform enables retailers to create omnichannel campaigns via email and display.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Windsor_Circle_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,17,24,31,284],
+		"category_names" : ["Technology","Analytics","Email Marketing","North America","LINK Joint Customer"]
+	},{
+		"title": "Wirecard AG_E",
+		"page_uri": "/link-marketplace/wirecard-ag",
+		"desc": "Wirecard AG is one of the world's leading independent providers of electronic payment and risk management solutions.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Wirecard_web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,25,101,32,33,284],
+		"category_names" : ["Technology","Fraud","Payment","Europe","Asia Pacific","LINK Joint Customer"]
+	},{
+		"title": "Wired Beans",
+		"page_uri": "/link-marketplace/wired-beans",
+		"desc": "WiredBeans offers omni-channel solutions and supports global marketing strategies for success in Japan. We provide optimized ecommerce solutions to help you expand your business into Asia.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_WiredBeans_web.png",
+		"level" : "business",
+		"service_type" : ["services","solution"],
+		"partner_type" : ["service"],
+		"categories" :  [72,7,12,33,147,149,152],
+		"category_names" : ["Services","Solution","Business","Asia Pacific","24x7 Solution Support","Commerce Strategy","Implementation/Integration/Delivery"]
+	},{
+		"title": "Wiser_E",
+		"page_uri": "/link-marketplace/wiser",
+		"desc": "Take the guesswork out of pricing with Wiser\u2019s pricing intelligence, MAP monitoring, repricing automation and analytics.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Wiser_web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,17,103,31,284],
+		"category_names" : ["Technology","Analytics","Product Information Management","North America","LINK Joint Customer"]
+	},{
+		"title": "Wordbank",
+		"page_uri": "/link-marketplace/wordbank",
+		"desc": "From translation, to optimization and conversion, Wordbank offers a unique blend of localization and marketing services.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_wordbank_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,35,114,31,32],
+		"category_names" : ["Technology","Marketing","Translations","North America","Europe"]
+	},{
+		"title": "WorldPay_E",
+		"page_uri": "/link-marketplace/worldpay",
+		"desc": "Reach more customers globally through any channel with Worldpay payments and fraud cartridge for Commerce Cloud.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Worldpay_webv4.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,25,101,31,32,33,34,240,284],
+		"category_names" : ["Technology","Fraud","Payment","North America","Europe","Asia Pacific","Global","Apple Pay for the Web Certified","LINK Joint Customer"]
+	},{
+		"title": "Yamato Credit &amp; Finance CO.,LTD.",
+		"page_uri": "/link-marketplace/yamota-credit-finance-coltd",
+		"desc": "The Japanese payment company which is owned by YAMATO HOLDINGS familiar with TA-Q-BIN, and provides deferred payment.",
+		"logo": "//www.demandware.com/uploads/partners/Logo_Yamotta_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,101,33,284],
+		"category_names" : ["Technology","Payment","Asia Pacific","LINK Joint Customer"]
+	},{
+		"title": "Yotpo_E",
+		"page_uri": "/link-marketplace/yotpo",
+		"desc": "More reviews, traffic and sales for the world's best brands.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_Yotpo_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,35,104,31,32,33,34,284],
+		"category_names" : ["Technology","Marketing","Ratings and Reviews","North America","Europe","Asia Pacific","Global","LINK Joint Customer"]
+	},{
+		"title": "Zinrelo",
+		"page_uri": "/link-marketplace/shopsocially",
+		"desc": "Zinrelo - world\u2019s best loyalty and referral programs to maximize revenue per customer through 360 customer engagement.",
+		"logo": "//www.demandware.com/uploads/partners/Logo_Zinrelo_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,98,99,31,284],
+		"category_names" : ["Technology","Gift and Promotional Programs","Loyalty","North America","LINK Joint Customer"]
+	},{
+		"title": "zipPay",
+		"page_uri": "/link-marketplace/zippay",
+		"desc": "zipPay is the buy now, pay later solution helping retailers convert browsers into shoppers & increase sales, risk free.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_zipPay_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,101,108,33],
+		"category_names" : ["Technology","Payment","Shopping Cart Abandonment","Asia Pacific"]
+	},{
+		"title": "Zmags",
+		"page_uri": "/link-marketplace/zmags-publicator",
+		"desc": "Zmags unlocks new revenue opportunities by delivering fully-branded, commerce-enabled digital experiences.",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_ZmagsPublicator_Web.jpg",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,35,105,31,32,284],
+		"category_names" : ["Technology","Marketing","Rich Media","North America","Europe","LINK Joint Customer"]
+	},{
+		"title": "Zmags Creator_E",
+		"page_uri": "/link-marketplace/zmags-creator",
+		"desc": "The Zmags Creator platform enables companies to rapidly create and publish memorable,  HTML5 animated, digital experiences without writing a single line of code. ",
+		"logo": "//www.demandware.com/uploads/partners/LOGO_ZmagsCreator_Web.jpg",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,35,105,31,32,284],
+		"category_names" : ["Technology","Marketing","Rich Media","North America","Europe","LINK Joint Customer"]
+	},{
+		"title": "Zodiac",
+		"page_uri": "/link-marketplace/zodiac",
+		"desc": "Zodiac is a predictive analytics platform that forecasts individual customer behavior and lifetime value.",
+		"logo": "//www.demandware.com/uploads/partners/Logo_Zodiac_Web.png",
+		"level" : "",
+		"service_type" : ["technology"],
+		"partner_type" : ["technology"],
+		"categories" :  [6,17,99,31],
+		"category_names" : ["Technology","Analytics","Loyalty","North America"]
+	}
+	]
